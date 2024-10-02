@@ -1,0 +1,1392 @@
+Country,Indicator,Last,Previous,Highest,Lowest,Date
+united-states,Currency,100,101,165,70.7,
+united-states,Stock Market,5738,5745,5769,4.4,points
+united-states,GDP Growth Rate,3,1.6,35.2,-28.1,percent
+united-states,GDP Annual Growth Rate,3,2.9,13.4,-7.5,percent
+united-states,Unemployment Rate,4.2,4.3,14.9,2.5,percent
+united-states,Non Farm Payrolls,142,89,4615,-20477,Thousand
+united-states,Inflation Rate,2.5,2.9,23.7,-15.8,percent
+united-states,Inflation Rate MoM,0.2,0.2,2,-1.8,percent
+united-states,Interest Rate,5,5.5,20,0.25,percent
+united-states,Balance of Trade,-78.79,-73.02,1.95,-102,USD Billion
+united-states,Current Account,-267,-241,9.96,-292,USD Billion
+united-states,Current Account to GDP,-3,-3.8,0.2,-6,percent of GDP
+united-states,Government Debt to GDP,122,122,126,31.8,percent of GDP
+united-states,Government Budget,-6.3,-5.4,4.5,-14.7,percent of GDP
+united-states,Business Confidence,47.2,46.8,77.5,29.4,points
+united-states,Manufacturing PMI,47,47.9,63.4,36.1,points
+united-states,Non Manufacturing PMI,51.5,51.4,67.6,37.8,points
+united-states,Services PMI,55.4,55.7,70.4,26.7,points
+united-states,Consumer Confidence,70.1,67.9,111,50,points
+united-states,Retail Sales MoM,0.1,1.1,18.8,-14.5,percent
+united-states,Building Permits,1470,1406,2419,513,Thousand
+united-states,Corporate Tax Rate,21,21,52.8,1,percent
+united-states,Personal Income Tax Rate,37,37,39.6,35,percent
+united-states,GDP Growth Rate,3,1.6,35.2,-28.1,percent
+united-states,GDP Annual Growth Rate,3,2.9,13.4,-7.5,percent
+united-states,GDP,27361,25744,27361,542,USD Billion
+united-states,GDP Constant Prices,23224,23054,23224,2172,USD Billion
+united-states,Gross National Product,23289,23136,23289,2187,USD Billion
+united-states,Gross Fixed Capital Formation,4256,4231,4256,1216,USD Billion
+united-states,GDP per Capita,65020,63721,65020,18992,USD
+united-states,GDP per Capita PPP,73637,72165,73637,43758,USD
+united-states,Full Year GDP Growth,2.9,2.5,18.9,-12.9,percent
+united-states,GDP Sales QoQ,1.9,2.1,25.7,-24.7,percent
+united-states,Real Consumer Spending,2.8,1.9,41.2,-30.6,percent
+united-states,Weekly Economic Index,1.74,1.63,10.27,-8.1,percent
+united-states,GDP from Agriculture,207,196,238,159,USD Billion
+united-states,GDP from Construction,864,853,904,533,USD Billion
+united-states,GDP from Manufacturing,2384,2337,2384,1801,USD Billion
+united-states,GDP from Mining,337,341,480,233,USD Billion
+united-states,GDP from Public Administration,2622,2617,2622,2090,USD Billion
+united-states,GDP from Services,16801,16700,16801,9722,USD Billion
+united-states,GDP from Transport,714,713,714,429,USD Billion
+united-states,GDP from Utilities,342,338,366,218,USD Billion
+united-states,Unemployment Rate,4.2,4.3,14.9,2.5,percent
+united-states,Non Farm Payrolls,142,89,4615,-20477,Thousand
+united-states,Government Payrolls,24,15,450,-917,Thousand
+united-states,Nonfarm Payrolls Private,118,74,4582,-19560,Thousand
+united-states,Manufacturing Payrolls,-24,6,655,-1715,Thousand
+united-states,Initial Jobless Claims,218,222,6137,162,Thousand
+united-states,Continuing Jobless Claims,1834,1821,23130,988,Thousand
+united-states,ADP Employment Change,99,111,1081,-6759,Thousand
+united-states,Employed Persons,161434,161266,161866,57172,Thousand
+united-states,Unemployed Persons,7115,7163,23239,1596,Thousand
+united-states,Average Hourly Earnings,0.4,0.2,4.3,-1.1,percent
+united-states,Average Weekly Hours,34.3,34.2,35,33.7,Hours
+united-states,Labor Force Participation Rate,62.7,62.7,67.3,58.1,percent
+united-states,Long Term Unemployment Rate,0.91,0.91,4.4,0.08,percent
+united-states,Youth Unemployment Rate,9.7,9.1,28.5,4.8,percent
+united-states,Labour Costs,120,120,120,14.98,points
+united-states,Productivity,113,112,113,22.07,points
+united-states,Job Vacancies,8341,7621,12572,2157,Thousand
+united-states,Job Offers,7673,7910,12182,2232,Thousand
+united-states,Challenger Job Cuts,75891,25885,671129,14875,Persons
+united-states,Wages,30.27,30.16,30.27,2.5,USD/Hour
+united-states,Minimum Wages,7.25,7.25,7.25,0.25,USD/Hour
+united-states,Wage Growth,6.3,6.4,15.4,-6,percent
+united-states,Wages in Manufacturing,27.96,27.94,27.96,0.48,USD/Hour
+united-states,Employment Cost Index,0.9,1.2,2,0.2,percent
+united-states,Population,336,334,336,76.09,Million
+united-states,Retirement Age Women,66.67,66.5,66.67,66,Years
+united-states,Retirement Age Men,66.67,66.5,66.67,66,Years
+united-states,Average Hourly Earnings YoY,3.8,3.6,8,0.7,percent
+united-states,Employment Cost Index Benefits,1,1.1,2.7,0.1,percent
+united-states,Employment Cost Index Wages,0.9,1.1,1.6,0.2,percent
+united-states,Hiring Plans Announcements,6101,3676,939790,3022,Persons
+united-states,Job Layoffs and Discharges,1762,1560,13516,1287,Thousand
+united-states,Job Quits,3277,3214,4515,1555,Thousand
+united-states,Job Quits Rate,2.1,2,3,1.2,Percent
+united-states,Nonfarm Productivity QoQ,2.5,0.4,19.9,-11.7,percent
+united-states,U6 Unemployment Rate,7.9,7.8,23,6.5,percent
+united-states,Unit Labour Costs QoQ,0.4,3.8,27.3,-14.3,percent
+united-states,Employment Rate,60,60,64.7,51.2,percent
+united-states,Full Time Employment,133246,133684,134859,64640,Thousand
+united-states,Jobless Claims 4-week Average,225,228,5288,179,Thousand
+united-states,Part Time Employment,28256,27729,28632,10086,Thousand
+united-states,Inflation Rate,2.5,2.9,23.7,-15.8,percent
+united-states,Inflation Rate MoM,0.2,0.2,2,-1.8,percent
+united-states,Consumer Price Index CPI,315,315,315,23.5,points
+united-states,Core Consumer Prices,320,319,320,28.5,points
+united-states,Core Inflation Rate,3.2,3.2,13.6,0,percent
+united-states,GDP Deflator,125,124,125,11.14,points
+united-states,Producer Prices,145,145,145,100,points
+united-states,Producer Prices Change,1.7,2.1,19.57,-6.86,percent
+united-states,Export Prices,148,149,167,82.4,points
+united-states,Import Prices,141,142,148,75,points
+united-states,Food Inflation,2.1,2.2,36.7,-34.3,percent
+united-states,Core Inflation Rate MoM,0.3,0.2,1.42,-0.48,percent
+united-states,Core PCE Price Index Annual Change,2.68,2.65,10.22,0.63,percent
+united-states,Core PCE Price Index MoM,0.1,0.2,1,-0.6,percent
+united-states,Core PCE Prices QoQ,2.8,3.7,11.9,-0.8,percent
+united-states,Core Producer Prices MoM,0.3,-0.2,1.2,-0.4,percent
+united-states,Core Producer Prices YoY,2.4,2.4,9.7,0.2,percent
+united-states,CPI seasonally adjusted,314,314,314,21.48,points
+united-states,Energy Inflation,-4,1.1,47.13,-28.09,Percent
+united-states,Export Prices MoM,-0.7,0.5,3.9,-3.7,percent
+united-states,Export Prices YoY,-0.7,1.2,18.6,-11.8,percent
+united-states,Import Prices MoM,-0.3,0.1,3.4,-7.4,percent
+united-states,Import Prices YoY,0.8,1.7,21.4,-19.1,percent
+united-states,Michigan 5 Year Inflation Expectations,3.1,3,9.7,2.2,percent
+united-states,Michigan Inflation Expectations,2.7,2.8,10.4,0.4,percent
+united-states,PCE Price Index Annual Change,2.24,2.45,11.6,-1.47,percent
+united-states,PCE Price Index Monthly Change,0.1,0.2,1.2,-1.2,percent
+united-states,PCE Prices QoQ,2.5,3.4,13.3,-6.2,percent
+united-states,PPI Ex Food Energy and Trade Services,133,132,133,100,points
+united-states,PPI Ex Food Energy and Trade Services MoM,0.3,0.3,1,-0.8,percent
+united-states,PPI Ex Food Energy and Trade Services YoY,3.3,3.2,7.1,-0.2,percent
+united-states,Producer Price Inflation MoM,0.2,0,1.6,-1.2,percent
+united-states,Rent Inflation,5.2,5.1,20.85,-0.73,percent
+united-states,Services Inflation,4.9,4.9,18.09,0.57,Percent
+united-states,Core PCE Price Index,123,123,123,15.5,points
+united-states,Core Producer Prices,143,143,143,99.9,points
+united-states,CPI Core Core,2.3,2.4,10.9,0.3,percent
+united-states,CPI Housing Utilities,336,335,336,30.5,points
+united-states,CPI Median,4.26,4.15,7.2,0.5,percent
+united-states,CPI Transportation,271,273,285,22.3,points
+united-states,CPI Trimmed-Mean,3.31,3.34,7.31,0.7,percent
+united-states,Inflation Expectations,3,3,6.8,2.33,percent
+united-states,PCE Price Index,124,124,124,15.16,points
+united-states,Interest Rate,5,5.5,20,0.25,percent
+united-states,Interbank Rate,4.91,4.92,10.63,0.11,percent
+united-states,Money Supply M0,5653900,5731900,6413100,48400,USD Million
+united-states,Money Supply M1,18053,18063,20708,139,USD Billion
+united-states,Money Supply M2,21175,21059,21722,287,USD Billion
+united-states,Banks Balance Sheet,23487,23400,23487,698,USD Billion
+united-states,Central Bank Balance Sheet,7080059,7109137,8965487,712809,USD Million
+united-states,Foreign Exchange Reserves,36357,35243,54933,0,USD Million
+united-states,Loans to Private Sector,2773,2768,3034,11.29,USD Billion
+united-states,Effective Federal Funds Rate,4.83,4.83,22.36,0.04,percent
+united-states,Fed Capital Account Surplus,6785,6785,29360,6785,USD Million
+united-states,Proxy Funds Rate,5.32,5.93,17.41,-1.42,percent
+united-states,Secured Overnight Financing Rate,4.84,4.84,5.4,0,percent
+united-states,Foreign Bond Investment,55900,11600,175162,-310793,USD Million
+united-states,Private Debt to GDP,216,224,239,168,percent
+united-states,Balance of Trade,-78.79,-73.02,1.95,-102,USD Billion
+united-states,Current Account,-267,-241,9.96,-292,USD Billion
+united-states,Current Account to GDP,-3,-3.8,0.2,-6,percent of GDP
+united-states,Exports,267,265,267,0.77,USD Billion
+united-states,Imports,345,338,349,0.58,USD Billion
+united-states,External Debt,26467035,25984649,26467035,6570168,USD Million
+united-states,Terms of Trade,108,109,172,94.05,points
+united-states,Capital Flows,156500,92000,314897,-194622,USD Million
+united-states,Foreign Direct Investment,73296,67824,78814,-9988,USD Million
+united-states,Net Long-term TIC Flows,135400,80500,261938,-134889,USD Million
+united-states,Gold Reserves,8133,8133,8149,8133,Tonnes
+united-states,Crude Oil Production,13214,13189,13308,1097,BBL/D/1K
+united-states,Auto Exports,72.2,76.7,131,11.38,Thousand
+united-states,Current Account Goods,-278,-265,3.03,-332,USD Billion
+united-states,Current Account Services,73.21,70.62,78.59,-0.52,USD Billion
+united-states,Weekly Crude Oil Production,13200,13200,13400,3813,Thousand Barrels Per Day
+united-states,Goods Trade Balance,-94260,-102840,1492,-120723,USD Million
+united-states,Oil Exports,10762,10266,11664,0,USD Million
+united-states,Terrorism Index,4.14,4.8,7.39,3.7,Points
+united-states,Tourism Revenues,21116,21230,21660,3835,USD Million
+united-states,Tourist Arrivals,5639831,6068711,8418370,248486,
+united-states,Weapons Sales,11287,15592,15883,1388,SIPRI TIV Million
+united-states,Government Debt to GDP,122,122,126,31.8,percent of GDP
+united-states,Government Budget,-6.3,-5.4,4.5,-14.7,percent of GDP
+united-states,Government Budget Value,-380100,-244000,308215,-864074,USD Million
+united-states,Government Spending,3917,3888,3917,556,USD Billion
+united-states,Government Revenues,306540,330377,863644,33111,USD Million
+united-states,Government Debt,35256057,35104771,35256057,60000,USD Million
+united-states,Fiscal Expenditure,686620,574119,1104903,3842,USD Million
+united-states,Asylum Applications,478885,259982,478885,24616,Persons
+united-states,Corruption Index,69,69,78,67,Points
+united-states,Corruption Rank,24,24,27,14,
+united-states,Credit Rating,97,,,,
+united-states,Government Spending to GDP,34.38,36.16,47.01,6.55,percent of GDP
+united-states,Military Expenditure,916015,860692,916015,14088,USD Million
+united-states,Corporate Tax Rate,21,21,52.8,1,percent
+united-states,Personal Income Tax Rate,37,37,39.6,35,percent
+united-states,Sales Tax Rate,0,0,0,0,percent
+united-states,Social Security Rate,15.3,15.3,16.75,15.3,percent
+united-states,Social Security Rate For Companies,7.65,7.65,10.1,7.65,percent
+united-states,Social Security Rate For Employees,7.65,7.65,7.65,6.65,percent
+united-states,Withholding Tax Rate,30,30,30,30,percent
+united-states,Business Confidence,47.2,46.8,77.5,29.4,points
+united-states,Manufacturing PMI,47,47.9,63.4,36.1,points
+united-states,Non Manufacturing PMI,51.5,51.4,67.6,37.8,points
+united-states,Services PMI,55.4,55.7,70.4,26.7,points
+united-states,Composite PMI,54.4,54.6,68.7,27,points
+united-states,Industrial Production,0,-0.7,62,-33.7,percent
+united-states,Industrial Production Mom,0.8,-0.9,16.6,-13.2,percent
+united-states,Manufacturing Production,0.2,-0.7,67.9,-39.4,percent
+united-states,Capacity Utilization,78,77.4,89.4,64.7,percent
+united-states,Durable Goods Orders,0,9.8,24.8,-19.9,percent
+united-states,Durable Goods Orders Ex Defense,-0.2,10.3,28,-20.9,percent
+united-states,Durable Goods Orders Ex Transportation,0.5,-0.1,6.3,-10.2,percent
+united-states,Factory Orders Ex Transportation,0.4,0.1,5.5,-9.2,percent
+united-states,Factory Orders,5,-3.3,11.5,-13.9,percent
+united-states,New Orders,592140,563972,597695,223500,USD Million
+united-states,Business Inventories,0.4,0.3,2.6,-2.4,percent
+united-states,Changes in Inventories,71.7,17.7,200,-262,USD Billion
+united-states,Wholesale Inventories,0.2,0.3,2.8,-1.9,percent
+united-states,Bankruptcies,20316,18926,82446,12748,Companies
+united-states,Corporate Profits,3142,3037,3142,9.96,USD Billion
+united-states,NFIB Business Optimism Index,91.2,93.7,109,80.1,points
+united-states,Chicago Fed National Activity Index,0.12,-0.42,6.26,-18.12,points
+united-states,Dallas Fed Manufacturing Index,-9.7,-17.5,47.7,-74.5,points
+united-states,NY Empire State Manufacturing Index,11.5,-4.7,43,-78.2,points
+united-states,Philadelphia Fed Manufacturing Index,1.7,-7,58.5,-58.4,points
+united-states,Richmond Fed Manufacturing Index,-21,-19,27,-54,points
+united-states,Chicago PMI,46.1,45.3,81,20.7,points
+united-states,Car Production,9.84,11.23,13.89,0.09,Million Units
+united-states,Car Registrations,265,243,1213,166,Thousand
+united-states,Total Vehicle Sales,15.13,15.82,21.71,8.48,Million
+united-states,Leading Economic Index,100,101,118,25.9,points
+united-states,CFNAI Employment Index,-0.08,-0.02,1.93,-8.79,points
+united-states,CFNAI Personal Consumption and Housing Index,0.03,-0.02,1.04,-1.32,points
+united-states,CFNAI Production Index,-0.28,-0.02,2.44,-5.62,percent
+united-states,CFNAI Sales Orders and Inventories Index,-0.01,-0.02,1.41,-2.37,percent
+united-states,Coincident Index,145,145,145,45.62,points
+united-states,Composite Leading Indicator,99.97,99.99,104,92.76,points
+united-states,Dallas Fed Manufacturing Employment Index,-0.7,7.1,31.3,-50.3,points
+united-states,Dallas Fed Manufacturing New Orders Index,-4.2,-12.8,38.5,-68.5,points
+united-states,Dallas Fed Manufacturing Prices Paid Index,28.2,23.1,82.1,-46.9,points
+united-states,Dallas Fed Manufacturing Production Index,1.6,-1.3,48.5,-54.9,points
+united-states,Dallas Fed Manufacturing Shipments Index,0.8,-16.3,48,-58,points
+united-states,Dallas Fed Services Index,-7.7,-0.1,41.7,-83.8,points
+united-states,Dallas Fed Services Revenues Index,8.7,7.7,39,-66.8,points
+united-states,ISM Manufacturing Backlog of Orders,43.6,41.7,70.6,23.4,points
+united-states,ISM Manufacturing Employment,46,43.4,73.7,27.8,points
+united-states,ISM Manufacturing Inventories,50.3,44.5,57,42.3,points
+united-states,ISM Manufacturing New Orders,44.6,47.4,82.6,24.2,points
+united-states,ISM Manufacturing Prices,54,52.9,92.1,17.1,points
+united-states,ISM Manufacturing Production,44.8,45.9,84,27.4,points
+united-states,ISM Manufacturing Supplier Deliveries,50.5,52.6,78.8,43.5,points
+united-states,ISM Non Manufacturing Business Activity,53.3,54.5,70.4,26.1,points
+united-states,ISM Non Manufacturing Employment,50.2,51.1,60.3,29.3,points
+united-states,ISM Non Manufacturing New Orders,53,52.4,69.2,33,points
+united-states,ISM Non Manufacturing Prices,57.3,57,84.5,36.1,points
+united-states,Kansas Fed Composite Index,-8,-3,32,-30,points
+united-states,Kansas Fed Employment Index,-7,-12,34,-38,points
+united-states,Kansas Fed New Orders Index,-12,-21,40,-64,points
+united-states,Kansas Fed Prices Paid Index,18,17,87,-33,points
+united-states,Kansas Fed Shipments Index,-1,-18,46,-57,points
+united-states,Manufacturing Production MoM,0.9,-0.7,17.3,-15.4,Percent
+united-states,Non Defense Capital Goods Orders Ex Aircraft,0.2,-0.2,9.5,-10.8,percent
+united-states,NY Empire State Employment Index,-5.7,-6.7,26,-55.3,points
+united-states,NY Empire State New Orders Index,9.4,-7.9,42,-66.3,points
+united-states,NY Empire State Prices Paid Index,23.2,23.4,86.4,-18.2,points
+united-states,NY Empire State Shipments Index,17.9,0.3,49.5,-68.1,points
+united-states,Philly Fed Business Conditions,15.8,15.4,91,-39.7,points
+united-states,Philly Fed CAPEX Index,25,12,51.1,-18.6,points
+united-states,Philly Fed Employment,10.7,-5.7,39.8,-51.5,points
+united-states,Philly Fed New Orders,-1.5,14.6,56.2,-70.9,points
+united-states,Philly Fed Prices Paid,34,24,91.1,-35.5,points
+united-states,Retail Inventories Ex Autos,0.4,0.5,3.8,-2.1,percent
+united-states,Richmond Fed Manufacturing Shipments,-18,-15,36,-71,points
+united-states,Richmond Fed Services Index,-1,-11,33,-87,points
+united-states,Grain Stocks Corn,4.99,8.35,12.52,1.24,Billion Bushels
+united-states,Grain Stocks Soy,0.97,1.85,3.74,0.09,Billion Bushels
+united-states,Grain Stocks Wheat,0.7,1.09,2.53,0.58,Billion Bushels
+united-states,Kansas Fed Manufacturing Index,-18,6,42,-66,points
+united-states,LMI Inventory Costs,69,65.7,91,55.8,points
+united-states,LMI Logistics Managers Index,56.4,56.5,76.2,45.4,points
+united-states,LMI Logistics Managers Index Future,62.4,62,73.6,49.6,points
+united-states,LMI Transportation Prices,61.6,63.8,95.81,27.9,points
+united-states,LMI Warehouse Prices,63.8,60.9,90.5,58.97,points
+united-states,Mining Production,0.1,-1.1,108,-28.8,percent
+united-states,Steel Production,7000,6900,11951,3799,Thousand Tonnes
+united-states,Consumer Confidence,70.1,67.9,111,50,points
+united-states,Retail Sales MoM,0.1,1.1,18.8,-14.5,percent
+united-states,Retail Sales Ex Autos,0.1,0.4,12.8,-14.7,percent
+united-states,Retail Sales YoY,2.1,2.9,52.5,-19.9,percent
+united-states,Consumer Spending,15967,15857,15967,1351,USD Billion
+united-states,Disposable Personal Income,20977,20922,21858,352,USD Billion
+united-states,Personal Spending,0.2,0.5,8.3,-11.4,percent
+united-states,Personal Income,0.2,0.3,20.8,-12.9,percent
+united-states,Personal Savings,2.9,3.1,32,1.4,percent
+united-states,Consumer Credit,25.45,5.23,147,-113,USD Billion
+united-states,Private Sector Credit,12465,12441,12465,26.74,USD Billion
+united-states,Bank Lending Rate,8.5,8.5,20.5,2,percent
+united-states,Economic Optimism Index,46.1,44.5,62.9,35.8,points
+united-states,Redbook Index,4.4,4.6,21.9,-12.6,percent
+united-states,Credit Card Accounts,599,597,599,378,Million
+united-states,Debt Balance Auto Loans,1.63,1.62,1.63,0.62,Trillion USD
+united-states,Debt Balance Credit Cards,1.14,1.12,1.14,0.66,Trillion USD
+united-states,Debt Balance Mortgages,12.52,12.44,12.52,4.94,Trillion USD
+united-states,Debt Balance Student Loans,1.59,1.6,1.6,0.24,Trillion USD
+united-states,Debt Balance Total,17.8,17.7,17.8,7.23,USD Trillion
+united-states,Michigan Consumer Expectations,74.4,72.1,109,44.2,points
+united-states,Michigan Current Economic Conditions,63.3,61.3,121,53.8,points
+united-states,Retail Sales Ex Gas and Autos MoM,0.2,0.4,12.9,-13.9,percent
+united-states,Used Car Prices MoM,1.2,2.8,9.2,-11.4,percent
+united-states,Used Car Prices YoY,-3.9,-4.8,54.3,-14.9,percent
+united-states,Chain Store Sales,2341,2643,15875,12,USD Million
+united-states,Gasoline Prices,0.89,0.92,1.3,0.24,USD/Liter
+united-states,Households Debt to GDP,72.1,72.9,98.7,23.6,percent of GDP
+united-states,Building Permits,1470,1406,2419,513,Thousand
+united-states,Housing Starts,1356,1237,2494,478,Thousand units
+united-states,New Home Sales,716,739,1389,270,Thousand units
+united-states,Pending Home Sales,-3,-8.5,52.4,-36.8,percent
+united-states,Existing Home Sales,3860,3960,7250,1370,Thousand
+united-states,Construction Spending,-0.3,0,5.9,-4.8,percent
+united-states,Housing Index,425,425,425,100,points
+united-states,Nahb Housing Market Index,41,39,90,8,points
+united-states,Mortgage Rate,6.13,6.15,10.56,2.85,percent
+united-states,Mortgage Applications,11,14.2,112,-40.5,percent
+united-states,15 Year Mortgage Rate,5.16,5.15,8.89,2.1,percent
+united-states,30 Year Mortgage Rate,6.08,6.09,18.63,2.65,percent
+united-states,Average House Prices,514800,487200,568700,39500,USD
+united-states,Average Mortgage Size,393,400,460,98.5,Thousand USD
+united-states,Building Permits MoM,4.6,-3.3,33.9,-24,percent
+united-states,Case Shiller Home Price Index MoM,0,0.6,3.1,-2.8,percent
+united-states,Case Shiller Home Price Index YoY,5.9,6.5,21.3,-19,percent
+united-states,Existing Home Sales MoM,-2.5,1.5,22.4,-22.5,percent
+united-states,House Price Index MoM,0.1,0,1.8,-1.8,percent
+united-states,House Price Index YoY,4.5,5.3,19.1,-10.5,percent
+united-states,Housing Starts MoM,9.6,-6.9,29.3,-26.4,percent
+united-states,Housing Starts Multi Family,333,357,1000,53,Thousand units
+united-states,Housing Starts Single Family,992,857,1823,353,Thousand units
+united-states,MBA Mortgage Market Index,296,267,1857,64.2,points
+united-states,MBA Mortgage Refinance Index,1133,941,9978,59,points
+united-states,MBA Purchase Index,148,146,529,53.5,points
+united-states,Mortgage Originations,374,403,1218,286,Billion USD
+united-states,National Home Price Index,321,320,321,25.42,points
+united-states,New Home Sales MoM,-4.7,10.6,31.2,-33.6,percent
+united-states,Pending Home Sales MoM,0.6,-5.5,40.5,-30.3,percent
+united-states,Total Housing Inventory,1330,1320,4040,860,Thousands
+united-states,Case Shiller Home Price Index,336,336,336,100,points
+united-states,Home Ownership Rate,65.6,65.7,69.2,62.9,percent
+united-states,Single Family Home Prices,422600,426900,426900,19700,USD
+united-states,Price to Rent Ratio,135,135,141,88.56,
+united-states,Residential Property Prices,5.3,5.47,18.84,-16.92,Percent
+united-states,Crude Oil Stocks Change,-4.47,-1.63,21.56,-17.05,BBL/1Million
+united-states,Gasoline Stocks Change,-1538,69,11456,-13624,Thousand Barrels
+united-states,Natural Gas Stocks Change,47,58,147,-359,billion cubic feet
+united-states,API Crude Oil Stock Change,-4.34,1.96,14.87,-15.4,BBL/1Million
+united-states,Crude Oil Rigs,484,488,1609,98,
+united-states,Strategic Petroleum Reserve Crude Oil Stocks,381893,380606,726617,2646,Thousand Barrels
+united-states,Total Rigs,587,588,4530,244,
+united-states,API Crude Imports,0.95,-1.15,1.99,-1.47,BBL/1Million
+united-states,API Crude Runs,0.09,-0.01,1.45,-2.23,BBL/1Million
+united-states,API Cushing Number,-0.03,-1.4,6.8,-5.04,BBL/1Million
+united-states,API Distillate Stocks,-1.12,2.3,10.24,-9.05,BBL/1Million
+united-states,API Gasoline Stocks,-3.44,2.34,10.86,-9.93,BBL/1Million
+united-states,API Heating Oil,-0.47,-0.41,1.9,-1.62,BBL/1Million
+united-states,API Product Imports,0.38,-0.23,1.01,-0.81,BBL/1Million
+united-states,Crude Oil Imports,826,-1829,2937,-3042,Thousand Barrels
+united-states,Cushing Crude Oil Stocks,116,-1979,6417,-5587,Thousand Barrels
+united-states,Distillate Fuel Production,-158,-153,806,-1050,Thousand Barrels
+united-states,Distillate Stocks,-2227,125,11205,-13011,Thousand Barrels
+united-states,Gasoline Production,176,284,1373,-1678,Thousand Barrels
+united-states,Heating Oil Stocks,191,-352,94208,-92090,Thousand Barrels
+united-states,Refinery Crude Runs,-124,-282,2407,-3253,Thousand Barrels
+united-states,Hospital Beds,2.77,2.78,9.18,2.77,per 1000 people
+united-states,Hospitals,18.55,19.11,30.65,17.14,per one million people
+united-states,Medical Doctors,2.77,2.74,2.77,2.27,per 1000 people
+united-states,Nurses,11.98,11.98,11.98,10.1,per 1000 people
+euro-area,Currency,1.12,1.12,1.87,0.64,
+euro-area,Stock Market,5069,5033,5522,616,points
+euro-area,GDP Growth Rate,0.2,0.3,11.6,-11.1,percent
+euro-area,GDP Annual Growth Rate,0.6,0.5,15.1,-14,percent
+euro-area,Unemployment Rate,6.4,6.5,12.2,6.4,percent
+euro-area,Inflation Rate,2.2,2.6,10.6,-0.6,percent
+euro-area,Inflation Rate MoM,0.1,0,2.4,-1.5,percent
+euro-area,Interest Rate,3.65,4.25,4.75,0,percent
+euro-area,Balance of Trade,21232,21688,29946,-55033,EUR Million
+euro-area,Current Account,48,52.4,52.4,-33.54,EUR Billion
+euro-area,Current Account to GDP,1.7,-0.6,3.1,-1.8,percent of GDP
+euro-area,Government Debt to GDP,88.6,90.8,97.2,66.1,percent of GDP
+euro-area,Government Budget,-3.6,-3.7,-0.4,-7.3,percent of GDP
+euro-area,Business Confidence,-0.61,-0.47,1.85,-3.31,points
+euro-area,Manufacturing PMI,44.8,45.8,63.4,33.4,points
+euro-area,Services PMI,50.5,52.9,59.8,12,points
+euro-area,Consumer Confidence,-12.9,-13.4,-1.8,-28.6,points
+euro-area,Retail Sales MoM,0.1,-0.4,19.4,-11.4,percent
+euro-area,Corporate Tax Rate,23,23,36.8,23,percent
+euro-area,Personal Income Tax Rate,41.8,42.7,49,38.8,percent
+euro-area,GDP Growth Rate,0.2,0.3,11.6,-11.1,percent
+euro-area,GDP Annual Growth Rate,0.6,0.5,15.1,-14,percent
+euro-area,GDP,15545,14224,15545,252,USD Billion
+euro-area,GDP Constant Prices,2993178,2987474,2993178,1955742,EUR Million
+euro-area,Gross Fixed Capital Formation,601175,614589,5179048,387,EUR Billion
+euro-area,GDP per Capita,37400,37450,37450,9964,USD
+euro-area,GDP per Capita PPP,55835,55865,55865,38305,USD
+euro-area,Full Year GDP Growth,0.4,3.4,5.9,-6.1,percent
+euro-area,GDP Growth Annualized,1.3,-0.2,57.9,-38,percent
+euro-area,Unemployment Rate,6.4,6.5,12.2,6.4,percent
+euro-area,Employed Persons,170,169,170,117,Million
+euro-area,Unemployed Persons,10990,11104,19764,7843,Thousand
+euro-area,Long Term Unemployment Rate,2.1,2.3,6.2,2.1,percent
+euro-area,Youth Unemployment Rate,14.2,14.4,25.5,14,percent
+euro-area,Labour Costs,108,118,118,75.6,points
+euro-area,Productivity,104,104,106,80.4,points
+euro-area,Wages,2179,2151,2179,1181,EUR/Month
+euro-area,Wage Growth,4.5,5.2,5.2,-0.4,percent
+euro-area,Population,350,350,350,260,Million
+euro-area,Job Vacancy Rate,2.6,2.9,3.3,1,percent
+euro-area,Negotiated Wage Growth,3.55,4.74,4.74,1.13,percent
+euro-area,Employment Change,0.2,0.3,1.2,-2.9,percent
+euro-area,Full Time Employment,124008,122665,124008,108856,Thousand
+euro-area,Labor Force Participation Rate,75.4,75.1,75.4,68.8,percent
+euro-area,Part Time Employment,32421,32365,32421,19769,Thousand
+euro-area,Retirement Age Men,64.97,64.88,64.99,62.24,Years
+euro-area,Retirement Age Women,64.66,64.51,64.74,61.66,Years
+euro-area,Inflation Rate,2.2,2.6,10.6,-0.6,percent
+euro-area,Inflation Rate MoM,0.1,0,2.4,-1.5,percent
+euro-area,Consumer Price Index CPI,127,127,127,70.97,points
+euro-area,Core Consumer Prices,120,120,120,75.52,points
+euro-area,Core Inflation Rate,2.8,2.9,5.7,0.2,percent
+euro-area,GDP Deflator,124,124,124,72.82,points
+euro-area,Producer Prices,124,123,143,66.4,points
+euro-area,Producer Prices Change,-2.1,-3.3,40.3,-10.1,percent
+euro-area,Import Prices,114,114,130,81.5,points
+euro-area,Food Inflation,1.7,1.6,17.5,-1.5,percent
+euro-area,Core Inflation Rate MoM,0.3,-0.2,1.7,-1.8,percent
+euro-area,Energy Inflation,-3,1.2,44.3,-14.4,percent
+euro-area,Energy Prices,147,149,171,52.33,points
+euro-area,Inflation Expectations,2.7,2.8,5.8,1.9,percent
+euro-area,Producer Price Inflation MoM,0.8,0.6,5.9,-3.1,percent
+euro-area,Rent Inflation,2.9,3,4.8,0.8,percent
+euro-area,Selling Price Expectations,6.2,6.2,60.2,-16.1,points
+euro-area,Services Inflation,4.1,4,6,0.4,percent
+euro-area,CPI Housing Utilities,132,132,138,61.16,points
+euro-area,CPI Transportation,128,129,129,66,points
+euro-area,Interest Rate,3.65,4.25,4.75,0,percent
+euro-area,Interbank Rate,3.35,3.4,9.93,-0.61,percent
+euro-area,Money Supply M1,10285092,10342578,11766718,444330,EUR Million
+euro-area,Money Supply M2,15235607,15301331,15423453,1070496,EUR Million
+euro-area,Money Supply M3,16435176,16346004,16435176,1097404,EUR Million
+euro-area,Central Bank Balance Sheet,6428492,6442517,8835987,692641,EUR Million
+euro-area,Foreign Exchange Reserves,90.78,92.39,92.39,34.91,USD Billion
+euro-area,Loans to Private Sector,5132924,5140078,5157860,2994549,EUR Million
+euro-area,Euro Short Term Rate,3.42,3.42,3.91,-0.59,percent
+euro-area,Longer-Term Refinancing Operations,104941,149,104941,32.13,EUR Billion
+euro-area,Money Supply M0,4840821,4932093,6385741,415566,EUR Million
+euro-area,Refinancing Operations,5707,2.48,5707,0.08,EUR Billion
+euro-area,Deposit Interest Rate,3.5,3.75,4,-0.5,percent
+euro-area,Lending Rate,3.9,4.5,5.75,0.25,percent
+euro-area,Loan Growth,0.6,0.5,9.9,-0.4,percent
+euro-area,Balance of Trade,21232,21688,29946,-55033,EUR Million
+euro-area,Current Account,48,52.4,52.4,-33.54,EUR Billion
+euro-area,Current Account to GDP,1.7,-0.6,3.1,-1.8,percent of GDP
+euro-area,Exports,252036,236500,270432,53046,EUR Million
+euro-area,Imports,230804,214812,296819,55698,EUR Million
+euro-area,External Debt,16537451,16048320,17058716,5501622,EUR Million
+euro-area,Capital Flows,91.44,31.83,158,-66.61,EUR Billion
+euro-area,Gold Reserves,507,507,767,501,Tonnes
+euro-area,Current Account Goods,39.77,33.38,39.77,-31.7,EUR Billion
+euro-area,Current Account Services,17.32,16.37,22.78,-16.7,EUR Billion
+euro-area,Government Debt to GDP,88.6,90.8,97.2,66.1,percent of GDP
+euro-area,Government Budget,-3.6,-3.7,-0.4,-7.3,percent of GDP
+euro-area,Government Spending,646613,642510,646613,386,EUR Billion
+euro-area,Government Spending to GDP,49.9,50.5,53.5,45.8,percent of GDP
+euro-area,Government Debt,12732445,12268150,12732445,4125003,EUR Million
+euro-area,Corporate Tax Rate,23,23,36.8,23,percent
+euro-area,Personal Income Tax Rate,41.8,42.7,49,38.8,percent
+euro-area,Sales Tax Rate,20.8,20.8,119,13.5,percent
+euro-area,Business Confidence,-0.61,-0.47,1.85,-3.31,points
+euro-area,Manufacturing PMI,44.8,45.8,63.4,33.4,points
+euro-area,Services PMI,50.5,52.9,59.8,12,points
+euro-area,Composite PMI,48.9,51,60.2,13.6,points
+euro-area,Industrial Production,-2.2,-4.1,41.4,-28.4,percent
+euro-area,Industrial Production Mom,-0.3,0,13.5,-18.6,percent
+euro-area,Manufacturing Production,-2.7,-4.6,45.2,-30.1,percent
+euro-area,Capacity Utilization,77.7,78.9,84.7,66.5,percent
+euro-area,Changes in Inventories,-11607,-21304,61833,-21304,EUR Billion
+euro-area,ZEW Economic Sentiment Index,9.3,17.9,89.9,-63.7,points
+euro-area,Car Registrations,711419,812093,1138506,163882,Units
+euro-area,Bankruptcies,-2,7.8,16.5,-26.4,percent
+euro-area,Industrial Sentiment,-10.9,-9.9,14.8,-37.3,points
+euro-area,Mining Production,-6.3,-4.8,42.3,-37.2,percent
+euro-area,Services Sentiment,6.7,6.4,35.9,-52.1,points
+euro-area,Consumer Confidence,-12.9,-13.4,-1.8,-28.6,points
+euro-area,Retail Sales MoM,0.1,-0.4,19.4,-11.4,percent
+euro-area,Retail Sales YoY,-0.1,-0.4,24.3,-19.7,percent
+euro-area,Consumer Spending,1588,1589,1589,1103,EUR Billion
+euro-area,Disposable Personal Income,2283271,2230572,2283271,1062183,EUR Million
+euro-area,Personal Savings,15.36,14.05,25.39,11.72,percent
+euro-area,Private Sector Credit,13365001,13341608,13365001,3241298,EUR Million
+euro-area,Bank Lending Rate,5.16,5.3,6.52,1.42,percent
+euro-area,Consumer Credit,775056,773471,775056,583932,EUR Million
+euro-area,Economic Optimism Index,96.2,96.5,120,58.8,points
+euro-area,Households Debt to GDP,53.1,53.6,64.3,46.9,percent of GDP
+euro-area,Households Debt to Income,93.09,96.79,98.79,71.02,percent
+euro-area,Consumer Confidence Price Trends,10.9,11.3,63.4,-8.1,points
+euro-area,Construction Output,-2.2,-1.3,44,-31.1,percent
+euro-area,Housing Index,142,142,147,89.2,points
+euro-area,House Price Index MoM,-0.1,-0.8,3.2,-1.9,percent
+euro-area,House Price Index YoY,-0.4,-1.2,9.8,-3.6,percent
+euro-area,Construction PMI,41.4,41.4,57,15.1,points
+euro-area,Home Ownership Rate,65.3,65.2,71.9,64,percent
+euro-area,Price to Rent Ratio,125,126,133,80.49,
+euro-area,Residential Property Prices,-0.44,-1.17,19.89,-4.45,Percent
+japan,Currency,142,145,358,75.55,
+japan,Stock Market,39830,38926,42438,1020,points
+japan,GDP Growth Rate,0.7,-0.6,5.6,-7.8,percent
+japan,GDP Annual Growth Rate,-1,-0.9,9.4,-9.7,percent
+japan,GDP Growth Annualized,2.9,-2.3,24.1,-27.6,percent
+japan,Unemployment Rate,2.7,2.5,5.5,1,percent
+japan,Inflation Rate,3,2.8,24.9,-2.5,percent
+japan,Inflation Rate MoM,0.5,0.2,4.1,-1.1,percent
+japan,Interest Rate,0.25,0.25,9,-0.1,percent
+japan,Balance of Trade,-695,-629,1609,-3506,JPY Billion
+japan,Current Account,3193,1534,3399,-2018,JPY Billion
+japan,Current Account to GDP,3.6,2.1,4.7,-1,percent of GDP
+japan,Government Debt to GDP,255,260,260,50.6,percent of GDP
+japan,Government Budget,-5.5,-5.8,2.58,-8.8,percent of GDP
+japan,Business Confidence,13,11,53,-58,points
+japan,Manufacturing PMI,49.6,49.8,56.2,29.6,points
+japan,Services PMI,53.9,53.7,55.9,21.5,points
+japan,Consumer Confidence,36.7,36.7,50.8,21.6,points
+japan,Retail Sales MoM,0.2,0.6,11.6,-13.7,percent
+japan,Corporate Tax Rate,30.62,30.62,52.4,30.62,percent
+japan,Personal Income Tax Rate,55.95,55.95,55.95,50,percent
+japan,GDP Growth Rate,0.7,-0.6,5.6,-7.8,percent
+japan,GDP Annual Growth Rate,-1,-0.9,9.4,-9.7,percent
+japan,GDP Growth Annualized,2.9,-2.3,24.1,-27.6,percent
+japan,GDP,4213,4256,6272,47.42,USD Billion
+japan,GDP Constant Prices,558061,554141,563304,268522,JPY Billion
+japan,Gross National Product,584847,577595,584847,272555,JPY Billion
+japan,Gross Fixed Capital Formation,137810,135717,156742,13146,JPY Billion
+japan,GDP per Capita,37079,36203,37079,6389,USD
+japan,GDP per Capita PPP,46268,45175,46268,35466,USD
+japan,Full Year GDP Growth,1.9,1,4.1,-5.7,percent
+japan,GDP External Demand Contribution,-0.1,-0.5,2.9,-2.8,percentage points
+japan,GDP from Agriculture,5694,5135,8016,4809,JPY Billion
+japan,GDP from Construction,27113,28905,43400,24493,JPY Billion
+japan,GDP from Manufacturing,119501,120739,120739,84669,JPY Billion
+japan,GDP from Mining,293,338,1124,293,JPY Billion
+japan,GDP from Public Administration,27694,27402,27694,22401,JPY Billion
+japan,GDP from Services,20017,19859,27926,19565,JPY Billion
+japan,GDP from Transport,24597,21538,29287,20404,JPY Billion
+japan,GDP from Utilities,17300,16286,20080,13847,JPY Billion
+japan,Unemployment Rate,2.7,2.5,5.5,1,percent
+japan,Employed Persons,67660,67860,67860,38370,Thousand
+japan,Unemployed Persons,1870,1760,3680,490,Thousand
+japan,Full Time Employment,23613,23503,23613,19397,Thousand
+japan,Part Time Employment,7579,7674,7694,1988,Thousand
+japan,Employment Rate,61.8,62,65.4,55.9,percent
+japan,Labor Force Participation Rate,63.5,63.7,74,58.5,percent
+japan,Youth Unemployment Rate,4.1,3.9,10.8,1.6,percent
+japan,Productivity,96.1,101,122,68.8,points
+japan,Job Vacancies,817,828,1000,266,Thousand
+japan,Wages,459648,602589,883791,52914,JPY/Month
+japan,Minimum Wages,1054,1002,1054,663,JPY/Hour
+japan,Wage Growth,3.6,4.5,35.02,-7.1,percent
+japan,Wages in Manufacturing,626687,621660,868487,9785,JPY/Month
+japan,Population,124,125,128,83.2,Million
+japan,Retirement Age Women,64,64,64,60,Years
+japan,Retirement Age Men,64,64,64,60,Years
+japan,Overtime Pay YoY,-0.1,0.9,19.9,-26.3,percent
+japan,Real Earnings Excluding Bonuses,0.4,1.1,3.1,-5.2,Percent
+japan,Real Earnings Including Bonuses,0.4,1.1,6.59,-5.46,Percent
+japan,Jobs To Applications Ratio,1.24,1.23,1.93,0.42,
+japan,Inflation Rate,3,2.8,24.9,-2.5,percent
+japan,Inflation Rate MoM,0.5,0.2,4.1,-1.1,percent
+japan,Consumer Price Index CPI,109,109,109,17.1,points
+japan,Core Consumer Prices,109,108,109,30.5,points
+japan,Core Inflation Rate,2.8,2.7,24.7,-2.4,percent
+japan,GDP Deflator,110,106,116,87.8,points
+japan,Producer Prices,123,123,123,47.3,points
+japan,Export Prices,145,145,207,84.1,points
+japan,Import Prices,173,172,190,45.9,points
+japan,Food Inflation,3.6,2.9,31.6,-3.7,percent
+japan,Goods Inflation,4.5,4,30,-4.4,percent
+japan,Producer Price Inflation MoM,-0.2,0.3,7.4,-1.9,percent
+japan,Rent Inflation,0.3,0.3,11.9,-0.4,percent
+japan,Services Inflation,1.4,1.4,20.7,-2.7,percent
+japan,Tokyo Core CPI,2,2.4,23.3,-2.2,percent
+japan,Tokyo CPI Ex Food and Energy,1.2,1.2,19.6,-1.8,percent
+japan,CPI Core Core,2,1.9,23.9,-1.7,percent
+japan,CPI Housing Utilities,103,103,103,25.4,points
+japan,CPI Transportation,97.6,97.6,106,39,points
+japan,Inflation Expectations,2.4,2.4,2.8,0.3,percent
+japan,Producer Prices Change,2.5,3,33.9,-8.6,percent
+japan,Tokyo CPI,2.2,2.6,24,-2.4,percent
+japan,Interest Rate,0.25,0.25,9,-0.1,percent
+japan,Interbank Rate,0.44,0.43,0.45,0.05,percent
+japan,Money Supply M0,113254,113320,116926,2130,JPY Billion
+japan,Money Supply M1,1095894,1097004,1108541,3921,JPY Billion
+japan,Money Supply M2,1255228,1256951,1260000,8404,JPY Billion
+japan,Money Supply M3,1608044,1610292,1612581,1010646,JPY Billion
+japan,Central Bank Balance Sheet,764812,761714,764812,4864,JPY Billion
+japan,Foreign Exchange Reserves,1235700,1219100,1424284,455,USD Million
+japan,Loans to Private Sector,546734,546805,546805,375949,JPY Billion
+japan,Deposit Interest Rate,0.03,0.03,0.03,0,percent
+japan,Foreign Stock Investment,-1926,-3007,2369,-3026,JPY Billion
+japan,Foreign Bond Investment,774,2103,6790,-7827,JPY Billion
+japan,Purchases of Government Bonds,5263,6374,23690,-264,JPY Billion
+japan,Loan Growth,3,3.2,6.7,-5,percent
+japan,Private Debt to GDP,246,242,286,215,percent
+japan,Balance of Trade,-695,-629,1609,-3506,JPY Billion
+japan,Current Account,3193,1534,3399,-2018,JPY Billion
+japan,Current Account to GDP,3.6,2.1,4.7,-1,percent of GDP
+japan,Exports,8442,9619,9643,105,JPY Billion
+japan,Imports,9137,10241,11173,162,JPY Billion
+japan,External Debt,632431,652333,652333,141743,JPY Billion
+japan,Terms of Trade,83.6,83.8,276,70.1,points
+japan,Capital Flows,23123,-2903,51996,-26928,JPY Hundred Million
+japan,Foreign Direct Investment,29602,15195,70638,-20639,JPY Hundred Million
+japan,Tourism Revenues,10501000,14949000,29067000,39000,JPY Thousand
+japan,Tourist Arrivals,3290000,3135600,3290000,1700,
+japan,Gold Reserves,846,846,846,754,Tonnes
+japan,Exports YoY,5.6,10.2,89.2,-49.4,percent
+japan,Imports YoY,2.3,16.6,106,-42.7,percent
+japan,Terrorism Index,1.19,2.4,2.54,0,Points
+japan,Weapons Sales,13,3,167,1,SIPRI TIV Million
+japan,Government Debt to GDP,255,260,260,50.6,percent of GDP
+japan,Government Budget,-5.5,-5.8,2.58,-8.8,percent of GDP
+japan,Government Budget Value,-43638,-90303,92145,-347513,JPY Hundred Million
+japan,Government Spending,119293,119168,119722,44079,JPY Billion
+japan,Corruption Index,73,73,80,58,Points
+japan,Corruption Rank,16,18,25,14,
+japan,Credit Rating,77,,,,
+japan,Government Spending to GDP,44.5,47.2,47.2,34.6,percent of GDP
+japan,Military Expenditure,50161,46880,60762,356,USD Million
+japan,Corporate Tax Rate,30.62,30.62,52.4,30.62,percent
+japan,Personal Income Tax Rate,55.95,55.95,55.95,50,percent
+japan,Sales Tax Rate,10,10,10,5,percent
+japan,Social Security Rate,31.14,31.52,31.52,18.39,percent
+japan,Social Security Rate For Companies,15.87,16.24,16.24,6.8,percent
+japan,Social Security Rate For Employees,15.27,15.28,15.28,11.59,percent
+japan,Withholding Tax Rate,20,20,20,20,percent
+japan,Business Confidence,13,11,53,-58,points
+japan,Manufacturing PMI,49.6,49.8,56.2,29.6,points
+japan,Services PMI,53.9,53.7,55.9,21.5,points
+japan,Industrial Production,2.9,-7.9,30,-37.2,percent
+japan,Industrial Production Mom,3.1,-4.2,6.8,-16.5,percent
+japan,Manufacturing Production,2.7,-7.9,29.3,-37.2,percent
+japan,Capacity Utilization,103,101,159,79.9,points
+japan,New Orders,1029,1046,1624,700,JPY Billion
+japan,Machinery Orders,-0.1,2.1,25.5,-16.1,percent
+japan,Changes in Inventories,1355,2023,7142,-6302,JPY Billion
+japan,Bankruptcies,723,953,1965,6,Companies
+japan,Corporate Profits,27428,25275,31606,43.24,JPY Billion
+japan,Coincident Index,117,114,126,83.4,points
+japan,Economy Watchers Survey,49,47.5,58.3,8.3,points
+japan,Car Production,592999,559726,961994,249772,Units
+japan,Car Registrations,180385,229683,585449,83044,Units
+japan,Leading Economic Index,109,109,120,81.3,points
+japan,Small Business Sentiment,-1,-1,46,-60,points
+japan,Business Survey Index Large Manufacturing Firms,4.5,-1,21.6,-66,percent
+japan,Composite Leading Indicator,99.93,100,105,95.15,points
+japan,Economy Watchers Survey Outlook,50.3,48.3,57.7,17.8,points
+japan,Tankan Large All Industry Capex,11.1,4,21.5,-13.8,percent
+japan,Tankan Large Manufacturing Outlook,14,10,47,-55,points
+japan,Tankan Non-Manufacturing Outlook,27,27,51,-36,points
+japan,Cement Production,3821,3976,9368,3335,Thousands of Tonnes
+japan,Composite PMI,52.5,52.9,54.3,25.8,points
+japan,Machine Tool Orders,110771,123960,182860,19037,JPY Million
+japan,Mining Production,-1.8,-4.8,16.2,-16.1,percent
+japan,Non Manufacturing PMI,33,34,57,-41,points
+japan,Private Investment,7.4,6.8,16.4,-25.33,percent
+japan,Reuters Tankan Index,4,10,39,-78,points
+japan,Steel Production,6900,7100,10775,1177,Thousand Tonnes
+japan,Tertiary Industry Index,103,101,107,73.2,points
+japan,Consumer Confidence,36.7,36.7,50.8,21.6,points
+japan,Retail Sales MoM,0.2,0.6,11.6,-13.7,percent
+japan,Retail Sales YoY,2.6,3.8,36.5,-14.3,percent
+japan,Household Spending,0.1,-1.4,13,-16.2,percent
+japan,Consumer Spending,297019,294337,310564,153291,JPY Billion
+japan,Disposable Personal Income,568,814,1080,35.36,JPY Thousand
+japan,Personal Savings,-4.6,6,23.4,-11,percent
+japan,Bank Lending Rate,1.7,1.7,9.9,0.9,percent
+japan,Household Spending MoM,-1.7,0.1,12.7,-13.6,percent
+japan,Consumer Credit,53170,51849,62768,36371,JPY Billion
+japan,Gasoline Prices,1.21,1.14,2,0.91,USD/Liter
+japan,Housing Starts,68014,66285,195268,19900,Units
+japan,Construction Orders,62.8,-19.7,105,-42.8,percent
+japan,Housing Starts YoY,-0.2,-6.7,67.6,-44,Percent
+japan,Home Ownership Rate,61.2,61.7,61.7,59.8,percent
+japan,Price to Rent Ratio,132,131,191,91.09,
+japan,Residential Property Prices,2.76,2.03,38.71,-6.43,Percent
+japan,Hospital Beds,12.62,12.63,15.58,12.62,per 1000 people
+japan,Hospitals,65.31,66.21,81.82,65.79,per one million people
+japan,Medical Doctors,2.67,2.5,2.57,1.17,per 1000 people
+japan,Nurses,12.85,12,12.46,8.91,per 1000 people
+united-kingdom,Currency,1.34,1.34,2.86,1.03,
+united-kingdom,Stock Market,8321,8285,8479,987,points
+united-kingdom,GDP Growth Rate,0.6,0.7,16.8,-20.3,percent
+united-kingdom,GDP Annual Growth Rate,0.9,0.3,25.7,-21.9,percent
+united-kingdom,Unemployment Rate,4.1,4.2,11.9,3.4,percent
+united-kingdom,Inflation Rate,2.2,2.2,11.1,-0.1,percent
+united-kingdom,Inflation Rate MoM,0.3,-0.2,3.5,-1,percent
+united-kingdom,Interest Rate,5,5,17,0.1,percent
+united-kingdom,Balance of Trade,-7514,-5324,9557,-12744,GBP Million
+united-kingdom,Current Account,-20995,-21177,5812,-45700,GBP Million
+united-kingdom,Current Account to GDP,-3.3,-3.1,2.8,-5.4,percent of GDP
+united-kingdom,Government Debt to GDP,97.6,95.6,211,21.6,percent of GDP
+united-kingdom,Government Budget,-4.4,-5,4.8,-15.1,percent of GDP
+united-kingdom,Business Confidence,-9,9,55,-87,points
+united-kingdom,Manufacturing PMI,51.5,52.5,65.6,32.6,points
+united-kingdom,Services PMI,52.8,53.7,62.9,13.4,points
+united-kingdom,Consumer Confidence,-20,-13,10,-49,points
+united-kingdom,Retail Sales MoM,1,0.7,13.8,-17.9,percent
+united-kingdom,Corporate Tax Rate,25,25,52,19,percent
+united-kingdom,Personal Income Tax Rate,45,45,50,40,percent
+united-kingdom,GDP Growth Rate,0.6,0.7,16.8,-20.3,percent
+united-kingdom,GDP Annual Growth Rate,0.9,0.3,25.7,-21.9,percent
+united-kingdom,GDP,3340,3089,3340,73.23,USD Billion
+united-kingdom,GDP Constant Prices,573956,570694,573956,121747,GBP Million
+united-kingdom,Gross National Product,677286,668636,677286,4694,GBP Million
+united-kingdom,Gross Fixed Capital Formation,108571,108142,108986,14587,GBP Million
+united-kingdom,GDP per Capita,47005,47343,47343,15135,USD
+united-kingdom,GDP per Capita PPP,54126,54516,54516,35051,USD
+united-kingdom,Full Year GDP Growth,0.1,4.3,8.7,-10.4,percent
+united-kingdom,Monthly GDP MoM,0,0,9.7,-19.6,percent
+united-kingdom,Monthly GDP YoY,1.2,0.7,29.8,-24.9,percent
+united-kingdom,GDP from Agriculture,2920,2908,4115,1777,GBP Million
+united-kingdom,GDP from Construction,32215,32263,34046,20340,GBP Million
+united-kingdom,GDP from Manufacturing,49937,50250,54125,28319,GBP Million
+united-kingdom,GDP from Mining,3274,3300,20540,3274,GBP Million
+united-kingdom,GDP from Public Administration,25400,25228,25400,21002,GBP Million
+united-kingdom,GDP from Services,416235,412924,416235,200237,GBP Million
+united-kingdom,GDP from Transport,18086,17696,20488,9813,GBP Million
+united-kingdom,Unemployment Rate,4.1,4.2,11.9,3.4,percent
+united-kingdom,Employed Persons,33232,33094,33326,23630,Thousand
+united-kingdom,Unemployed Persons,1792,1769,3090,423,Thousand
+united-kingdom,Full Time Employment,24909,24803,24909,19136,Thousand
+united-kingdom,Part Time Employment,8323,8291,8704,5995,Thousand
+united-kingdom,Claimant Count Change,23.7,102,860,-172,Thousand
+united-kingdom,Employment Rate,74.8,74.5,76.2,65.6,percent
+united-kingdom,Labor Force Participation Rate,78.1,77.8,79.5,74.1,percent
+united-kingdom,Youth Unemployment Rate,13.3,12,20.3,7.5,percent
+united-kingdom,Labour Costs,123,122,123,4.8,points
+united-kingdom,Productivity,102,102,105,42.6,points
+united-kingdom,Job Vacancies,857,872,1304,328,Thousand
+united-kingdom,Wages,689,689,689,300,GBP/Week
+united-kingdom,Minimum Wages,11.44,10.42,11.44,5.05,GBP/Hour
+united-kingdom,Wage Growth,4,4.6,8.9,-2.9,percent
+united-kingdom,Wages in Manufacturing,756,763,763,356,GBP/Week
+united-kingdom,Population,67.6,66.98,67.6,50.29,Million
+united-kingdom,Retirement Age Women,66,66,66,60,Years
+united-kingdom,Retirement Age Men,66,66,66,65,Years
+united-kingdom,Average Earnings Excluding Bonus,5.1,5.4,7.9,-0.2,percent
+united-kingdom,Inactivity Rate,21.9,22.2,25.9,20.5,percent
+united-kingdom,Real Earnings Excluding Bonuses,1.9,2.3,5.8,-3.5,percent
+united-kingdom,Real Earnings Including Bonuses,0.8,0.3,7.2,-8.7,percent
+united-kingdom,Average Weekly Hours,31.9,32,33.5,26.1,Hours
+united-kingdom,Employment Change,265,97,322,-424,Thousand
+united-kingdom,Non Farm Payrolls,-58.57,-6.2,200,-444,Thousand
+united-kingdom,Inflation Rate,2.2,2.2,11.1,-0.1,percent
+united-kingdom,Inflation Rate MoM,0.3,-0.2,3.5,-1,percent
+united-kingdom,Consumer Price Index CPI,134,134,134,48.4,points
+united-kingdom,Core Consumer Prices,132,131,132,52.94,points
+united-kingdom,Core Inflation Rate,3.6,3.3,7.1,-0.1,percent
+united-kingdom,GDP Deflator,121,121,121,3.83,points
+united-kingdom,Producer Prices Change,0.2,0.8,27.8,-7.3,percent
+united-kingdom,Food Inflation,1.3,1.5,19.1,-3.3,percent
+united-kingdom,Core Inflation Rate MoM,0.4,0.1,3.1,-1.3,percent
+united-kingdom,Core Producer Prices MoM,0.1,0.1,2.2,-1,percent
+united-kingdom,Core Producer Prices YoY,1.3,1,14.7,-2.9,percent
+united-kingdom,Energy Inflation,-13.2,-10.9,59,-17.3,percent
+united-kingdom,Input Producer Prices,147,148,154,49.2,points
+united-kingdom,PPI Input,-0.5,-0.3,5.1,-2,percent
+united-kingdom,PPI Input YoY,-1.2,0.2,24.4,-6.9,percent
+united-kingdom,Producer Price Inflation MoM,-0.3,0,3.1,-2.1,percent
+united-kingdom,Rent Inflation,7.1,7.2,12.9,0.3,percent
+united-kingdom,Services Inflation,5.6,5.2,12.1,0.6,percent
+united-kingdom,Core Producer Prices,136,136,136,78.4,points
+united-kingdom,CPI Housing Utilities,137,136,144,31.68,points
+united-kingdom,CPI Transportation,138,137,139,40.46,points
+united-kingdom,Inflation Expectations,2.7,2.6,6.3,0.8,percent
+united-kingdom,Producer Prices,136,137,138,8.6,points
+united-kingdom,Retail Price Index,3.5,3.6,26.9,-1.6,percent
+united-kingdom,Interest Rate,5,5,17,0.1,percent
+united-kingdom,Interbank Rate,5.3,5.3,15.63,0.02,percent
+united-kingdom,Money Supply M0,96003,95783,96003,3530,GBP Million
+united-kingdom,Money Supply M1,2200287,2192423,2576953,82358,GBP Million
+united-kingdom,Money Supply M2,3036469,3021236,3226774,167343,GBP Million
+united-kingdom,Money Supply M3,3538649,3529976,3709318,263059,GBP Million
+united-kingdom,Banks Balance Sheet,4526744,4512681,4574871,3320001,GBP Million
+united-kingdom,Central Bank Balance Sheet,895822,895829,1119387,76991,GBP Million
+united-kingdom,Foreign Exchange Reserves,188793,182607,203709,35190,USD Million
+united-kingdom,Loans to Private Sector,2703871,2694879,2812956,8755,GBP Million
+united-kingdom,Deposit Interest Rate,5,5,5,0,percent
+united-kingdom,Interest rate on new mortgages,4.81,4.82,5.34,1.5,percent
+united-kingdom,Interest Rate on Outstanding Mortgages,3.69,3.65,3.69,2,percent
+united-kingdom,Money Supply M4,3067166,3057155,3112714,145355,GBP Million
+united-kingdom,Overnight Interbank Average Rate,5.2,5.2,8.56,0.04,percent
+united-kingdom,Sterling Overnight Index Average Rate,4.95,4.95,8.61,0.04,percent
+united-kingdom,Lending Rate,5.5,5.5,5.5,0.35,percent
+united-kingdom,Private Debt to GDP,161,172,247,150,percent
+united-kingdom,Balance of Trade,-7514,-5324,9557,-12744,GBP Million
+united-kingdom,Current Account,-20995,-21177,5812,-45700,GBP Million
+united-kingdom,Current Account to GDP,-3.3,-3.1,2.8,-5.4,percent of GDP
+united-kingdom,Exports,69609,73006,78750,962,GBP Million
+united-kingdom,Imports,77118,78330,80605,1031,GBP Million
+united-kingdom,External Debt,7767200,7572360,7767200,565439,GBP Million
+united-kingdom,Capital Flows,-1195,7277,52822,-18765,GBP Million
+united-kingdom,Foreign Direct Investment,-2122,-1020,92093,-44536,GBP Million
+united-kingdom,Gold Reserves,310,310,588,310,Tonnes
+united-kingdom,Crude Oil Production,646,627,2821,1,BBL/D/1K
+united-kingdom,Goods Trade Balance Non-EU,-7500,-7456,3605,-13933,GBP Million
+united-kingdom,Auto Exports,34850,52963,136305,152,Units
+united-kingdom,Goods Trade Balance,-20003,-18894,775,-24158,GBP Million
+united-kingdom,Terrorism Index,2.37,3.84,6.06,2.37,Points
+united-kingdom,Tourism Revenues,5530,2180,5530,61,GBP Million
+united-kingdom,Tourist Arrivals,8731,2930,8731,65,Thousand
+united-kingdom,Weapons Sales,1204,1665,6012,637,SIPRI TIV Million
+united-kingdom,Government Debt to GDP,97.6,95.6,211,21.6,percent of GDP
+united-kingdom,Government Budget,-4.4,-5,4.8,-15.1,percent of GDP
+united-kingdom,Government Budget Value,-13734,-3095,15720,-51481,GBP Million
+united-kingdom,Government Spending,117324,117343,117600,34212,GBP Million
+united-kingdom,Government Spending to GDP,44.5,45.3,62.2,11.6,percent of GDP
+united-kingdom,Government Debt,2768,2744,2768,52.1,GBP Billion
+united-kingdom,Fiscal Expenditure,103104,103225,112959,22876,GBP Million
+united-kingdom,Interest Payments on Government Debt,5899,7056,20162,-134,GBP Million
+united-kingdom,Public Sector Net Borrowing,-13734,-3095,16644,-50639,GBP Million
+united-kingdom,Public Sector Net Debt to GDP,100,99.3,100,26.7,percent of GDP
+united-kingdom,Tax Revenue,61027,71583,89608,16025,GBP Million
+united-kingdom,Corruption Index,71,73,87,71,Points
+united-kingdom,Corruption Rank,20,18,20,8,
+united-kingdom,Credit Rating,87,,,,
+united-kingdom,Government Revenues,89370,100130,118830,23974,GBP Million
+united-kingdom,Military Expenditure,74943,64082,74943,2603,USD Million
+united-kingdom,Corporate Tax Rate,25,25,52,19,percent
+united-kingdom,Personal Income Tax Rate,45,45,50,40,percent
+united-kingdom,Sales Tax Rate,20,20,20,8,percent
+united-kingdom,Social Security Rate,27.8,31.55,31.55,9,percent
+united-kingdom,Social Security Rate For Companies,13.8,15.05,15.05,10.2,percent
+united-kingdom,Social Security Rate For Employees,14,16.5,16.5,7.75,percent
+united-kingdom,Withholding Tax Rate,20,20,20,20,percent
+united-kingdom,Business Confidence,-9,9,55,-87,points
+united-kingdom,Manufacturing PMI,51.5,52.5,65.6,32.6,points
+united-kingdom,Services PMI,52.8,53.7,62.9,13.4,points
+united-kingdom,Industrial Production,-1.2,-1.4,22.8,-13.5,percent
+united-kingdom,Industrial Production Mom,-0.8,0.8,10.6,-15.3,percent
+united-kingdom,Manufacturing Production,-1.3,-1.5,35.5,-20.5,percent
+united-kingdom,Factory Orders,-35,-22,26,-79,Net Balance
+united-kingdom,New Orders,12514,10743,25109,6080,GBP Million
+united-kingdom,Changes in Inventories,-4064,-449,14360,-9394,GBP Million
+united-kingdom,Bankruptcies,1953,2144,6509,718,Companies
+united-kingdom,Corporate Profits,145102,140461,155481,941,GBP Million
+united-kingdom,Car Production,41271,65478,185157,197,Units
+united-kingdom,Car Registrations,84575,147517,562337,4321,Units
+united-kingdom,Small Business Sentiment,-1,-13,40,-84,points
+united-kingdom,BRC Retail Sales Monitor YoY,0.8,0.3,39.6,-4.9,percent
+united-kingdom,Composite Leading Indicator,102,102,107,87.2,points
+united-kingdom,Electric Car Registrations,19113,27335,48388,10006,Units
+united-kingdom,Electricity Price,83.65,75.15,581,23.1,GBP/MWh
+united-kingdom,Manufacturing Production MoM,-1,1.1,13.3,-20.4,Percent
+united-kingdom,New Passenger Car Registrations YoY,-1.3,2.5,3177,-97.3,percent
+united-kingdom,Composite PMI,52.9,53.8,62.9,13.8,points
+united-kingdom,Electricity Production,64186,64701,102847,50501,Gigawatt-hour
+united-kingdom,Leading Economic Index,0.5,0.6,16.9,-20.3,percent
+united-kingdom,Mining Production,-3.8,-7.5,854,-90.5,percent
+united-kingdom,Private Investment,-0.1,0.5,55.6,-32.2,percent
+united-kingdom,Consumer Confidence,-20,-13,10,-49,points
+united-kingdom,Retail Sales MoM,1,0.7,13.8,-17.9,percent
+united-kingdom,Retail Sales YoY,2.5,1.5,40.9,-23,percent
+united-kingdom,Consumer Spending,339057,338388,345335,66584,GBP Million
+united-kingdom,Disposable Personal Income,361019,358488,361019,64437,GBP Million
+united-kingdom,Personal Savings,11.1,10.2,27.4,-0.9,percent
+united-kingdom,Bank Lending Rate,6.25,6.25,18,0,percent
+united-kingdom,Net Lending to Individuals MoM,4001,3494,17338,-7480,GBP Million
+united-kingdom,Cbi Distributive Trades,4,-27,72,-55,Net Balance
+united-kingdom,Consumer Credit,1215,869,2260,-7521,GBP Million
+united-kingdom,Gasoline Prices,1.87,1.86,2.32,0.92,USD/Liter
+united-kingdom,Households Debt to GDP,78.8,79.5,98.2,29.1,percent of GDP
+united-kingdom,Retail Sales Ex Fuel,1.1,1,12.7,-14.5,percent
+united-kingdom,Housing Starts,22310,20170,69520,16650,units
+united-kingdom,Construction Output,-1.6,-1.7,72.4,-42.9,percent
+united-kingdom,Housing Index,504,503,506,45.16,points
+united-kingdom,Mortgage Approvals,61.99,60.61,152,9.32,Thousand
+united-kingdom,Average House Prices,292505,291585,294845,26188,GBP
+united-kingdom,House Price Index MoM,0.3,0.9,4.1,-2.6,percent
+united-kingdom,House Price Index YoY,4.3,2.4,34.5,-16.8,percent
+united-kingdom,Nationwide Housing Prices MoM,-0.2,0.3,3.5,-3.1,percent
+united-kingdom,Nationwide Housing Prices YoY,2.4,2.1,26.5,-17.6,percent
+united-kingdom,Private Rental Prices,8.4,8.6,9.2,0.8,percent
+united-kingdom,RICS House Price Balance,1,-18,100,-92.32,percent
+united-kingdom,Construction Orders,28,-2.5,126,-44.8,percent
+united-kingdom,Construction PMI,53.6,55.3,66.3,8.2,points
+united-kingdom,Home Loans,2786,2625,17156,-1778,GBP Million
+united-kingdom,Home Ownership Rate,64.9,65.1,73.3,63.4,percent
+united-kingdom,Mortgage Rate,7.83,7.98,8.87,3.59,percent
+united-kingdom,Nationwide Housing Prices,529,531,546,98.95,points
+united-kingdom,Price to Rent Ratio,118,118,129,48.39,
+united-kingdom,Residential Property Prices,-0.48,-2.38,50.98,-15.42,Percent
+united-kingdom,Crude Oil Rigs,9,7,32,3,
+united-kingdom,Hospital Beds,2.44,2.42,4.08,2.42,per 1000 people
+united-kingdom,Hospitals,28.64,28.75,29.61,24.27,per one million people
+australia,Currency,0.69,0.69,1.49,0.48,
+australia,Stock Market,8212,8204,8246,1358,points
+australia,GDP Growth Rate,0.2,0.2,4.4,-6.9,percent
+australia,GDP Annual Growth Rate,1,1.3,10.6,-6.1,percent
+australia,Unemployment Rate,4.2,4.2,11.2,3.5,percent
+australia,Inflation Rate,3.8,3.6,23.9,-1.3,percent
+australia,Inflation Rate MoM,1,1,7.55,-1.9,percent
+australia,Interest Rate,4.35,4.35,17.5,0.1,percent
+australia,Balance of Trade,6009,5425,19862,-3474,AUD Million
+australia,Current Account,-10725,-6289,22093,-21612,AUD Million
+australia,Current Account to GDP,-1.6,-0.9,4,-7.3,percent of GDP
+australia,Government Debt to GDP,43.8,42.8,43.8,-3.4,percent of GDP
+australia,Government Budget,0.9,-1.4,2.2,-6.4,percent of GDP
+australia,Business Confidence,-4,1,23,-68,points
+australia,Manufacturing PMI,46.7,48.5,60.4,44,points
+australia,Services PMI,50.6,52.5,58.8,19.5,points
+australia,Consumer Confidence,84.6,85,124,64.6,points
+australia,Retail Sales MoM,0,0.5,16.1,-17.1,percent
+australia,Building Permits,14797,13398,23029,8684,
+australia,Corporate Tax Rate,30,30,49,30,percent
+australia,Personal Income Tax Rate,45,45,47,45,percent
+australia,GDP Growth Rate,0.2,0.2,4.4,-6.9,percent
+australia,GDP Annual Growth Rate,1,1.3,10.6,-6.1,percent
+australia,GDP,1724,1693,1724,18.61,USD Billion
+australia,GDP Constant Prices,612180,610808,612180,74010,AUD Million
+australia,Gross National Product,577955,581697,581916,62588,AUD Million
+australia,Gross Fixed Capital Formation,143183,143343,144481,11370,AUD Million
+australia,GDP per Capita,61341,60973,61341,19768,USD
+australia,GDP per Capita PPP,59456,59100,59456,34924,USD
+australia,Full Year GDP Growth,1.5,3.1,7.2,-2.2,percent
+australia,GDP External Demand Contribution,0.2,-0.9,4.3,-3.1,percentage points
+australia,GDP from Agriculture,16062,16100,16983,4620,AUD Million
+australia,GDP from Construction,40178,39997,41001,9400,AUD Million
+australia,GDP from Manufacturing,31293,31073,35640,18855,AUD Million
+australia,GDP from Mining,80318,80555,83955,11202,AUD Million
+australia,GDP from Public Administration,31481,31303,31481,8457,AUD Million
+australia,GDP from Utilities,11671,11523,11671,3773,AUD Million
+australia,Unemployment Rate,4.2,4.2,11.2,3.5,percent
+australia,Employed Persons,14459,14411,14459,5998,Thousand
+australia,Unemployed Persons,627,637,1002,365,Thousand
+australia,Full Time Employment,-3100,64800,131145,-227867,Persons
+australia,Part Time Employment,50600,-15800,256665,-353470,Persons
+australia,Employment Change,47500,48900,375111,-581337,Persons
+australia,Labor Force Participation Rate,67.1,67.1,67.1,60.1,percent
+australia,Youth Unemployment Rate,10,9.9,20.1,7.2,percent
+australia,Labour Costs,115,113,115,39,points
+australia,Productivity,94.9,95.7,101,52.5,points
+australia,Job Vacancies,353,362,477,26.8,Thousand
+australia,Job Advertisements,-2.1,-2.7,21,-43.2,percent
+australia,Wages,1481,1433,1481,59.1,AUD/Week
+australia,Minimum Wages,916,883,916,522,AUD/week
+australia,Wage Growth,4.1,4.1,4.3,1.3,percent
+australia,Wages in Manufacturing,1669,1631,1669,333,AUD/Week
+australia,Population,26.97,26.27,26.97,10.39,Million
+australia,Retirement Age Women,67,67,67,62,Years
+australia,Retirement Age Men,67,67,67,65,Years
+australia,Employment Rate,64.3,64.2,64.4,54,percent
+australia,Inflation Rate,3.8,3.6,23.9,-1.3,percent
+australia,Inflation Rate MoM,1,1,7.55,-1.9,percent
+australia,Consumer Price Index CPI,139,137,139,4.2,points
+australia,Core Consumer Prices,137,136,137,29.83,points
+australia,Core Inflation Rate,3.9,4,10.7,1.1,percent
+australia,GDP Deflator,110,110,110,5.37,points
+australia,Producer Prices,131,129,131,70.7,points
+australia,Producer Prices Change,4.8,4.3,6.4,-1.5,percent
+australia,Export Prices,160,170,190,16.3,points
+australia,Import Prices,133,132,138,51.5,points
+australia,Food Inflation,3.3,3.8,20.6,-3.2,percent
+australia,Commodity Prices YoY,-5.2,-4.1,61.6,-32.8,percent
+australia,Export Prices MoM,-5.9,-2.1,16.1,-20.6,percent
+australia,GDP Chain Price Index,110,111,111,31.8,points
+australia,Import Prices MoM,1,-1.8,12.8,-6.4,percent
+australia,MI Inflation Gauge MoM,-0.1,0.4,1.2,-1.2,percent
+australia,Monthly CPI Indicator,2.7,3.5,8.4,-0.2,percent
+australia,Producer Price Inflation MoM,1,0.9,1.9,-1.2,percent
+australia,Rent Inflation,7.3,7.8,17.2,-1.4,percent
+australia,Services Inflation,4.5,4.3,26.2,-3.5,percent
+australia,Trimmed Mean CPI QoQ,0.8,1,1.8,0,percent
+australia,Weighted Median CPI QoQ,0.8,1.1,1.8,0.1,percent
+australia,Weighted Median CPI YoY,4.1,4.4,6,1.2,percent
+australia,CPI Housing Utilities,150,149,150,10.3,points
+australia,CPI Transportation,132,131,132,11.3,points
+australia,Inflation Expectations,4.4,4.5,8.6,2.8,percent
+australia,Interest Rate,4.35,4.35,17.5,0.1,percent
+australia,Interbank Rate,4.34,4.34,20.77,0.03,percent
+australia,Money Supply M0,342,356,575,4.09,AUD Billion
+australia,Money Supply M1,1713,1678,1713,8.46,AUD Billion
+australia,Money Supply M3,3067,3024,3067,10.29,AUD Billion
+australia,Central Bank Balance Sheet,424168,421532,647450,30418,AUD Million
+australia,Foreign Exchange Reserves,96171,94388,96171,1126,AUD Million
+australia,Loans to Private Sector,1186,1185,1186,0,AUD Billion
+australia,Deposit Interest Rate,3.5,3.5,17.25,0.05,percent
+australia,Bank Bill Swap Rate,4.43,4.44,4.49,3.51,percent
+australia,Loan Growth,5.7,5.6,25.5,-1.8,percent
+australia,Private Debt to GDP,181,182,207,121,percent
+australia,Balance of Trade,6009,5425,19862,-3474,AUD Million
+australia,Current Account,-10725,-6289,22093,-21612,AUD Million
+australia,Current Account to GDP,-1.6,-0.9,4,-7.3,percent of GDP
+australia,Exports,43803,43515,55864,359,AUD Million
+australia,Imports,37794,38090,39234,267,AUD Million
+australia,External Debt,2452309,2425773,2452309,147312,AUD Million
+australia,Terms of Trade,120,129,144,47.5,points
+australia,Capital Flows,9247,9684,27012,-21966,AUD Million
+australia,Foreign Direct Investment,45000,91400,91400,-37051,AUD Million
+australia,Tourist Arrivals,658970,587760,1077720,2250,
+australia,Gold Reserves,79.87,79.87,79.87,48.83,Tonnes
+australia,Crude Oil Production,269,256,781,238,BBL/D/1K
+australia,Terrorism Index,1.48,1.83,3.09,0,Points
+australia,Weapons Sales,67,33,413,2,SIPRI TIV Million
+australia,Government Debt to GDP,43.8,42.8,43.8,-3.4,percent of GDP
+australia,Government Budget,0.9,-1.4,2.2,-6.4,percent of GDP
+australia,Government Budget Value,18882,10755,23999,-36988,AUD Million
+australia,Government Spending,137847,135935,137847,10639,AUD Million
+australia,Government Revenues,77341,65361,77415,510,AUD Million
+australia,Fiscal Expenditure,57753,54607,79545,790,AUD Million
+australia,Corruption Index,75,75,88.6,73,Points
+australia,Corruption Rank,14,13,18,7,
+australia,Credit Rating,100,,,,
+australia,Government Debt,486092,503370,626303,-50019,AUD Million
+australia,Government Spending to GDP,26.8,31.6,31.6,18.3,percent of GDP
+australia,Military Expenditure,32340,32445,32718,0,USD Million
+australia,Corporate Tax Rate,30,30,49,30,percent
+australia,Personal Income Tax Rate,45,45,47,45,percent
+australia,Sales Tax Rate,10,10,10,10,percent
+australia,Social Security Rate,13.5,13,13.5,10.5,percent
+australia,Social Security Rate For Companies,11.5,11,11.5,9,percent
+australia,Social Security Rate For Employees,2,2,2,1.5,percent
+australia,Withholding Tax Rate,10,10,10,10,percent
+australia,Business Confidence,-4,1,23,-68,points
+australia,Manufacturing PMI,46.7,48.5,60.4,44,points
+australia,Services PMI,50.6,52.5,58.8,19.5,points
+australia,Industrial Production,-0.1,0.6,14.5,-7.6,percent
+australia,Industrial Production Mom,0.1,0.3,5.7,-7.1,percent
+australia,Manufacturing Production,0.2,-0.1,9.7,-11.7,percent
+australia,Capacity Utilization,82.7,83.5,86.3,71.45,percent
+australia,New Orders,7,10,71,-37,points
+australia,Changes in Inventories,986,2805,7410,-4759,AUD Million
+australia,Bankruptcies,1167,1238,1249,192,Companies
+australia,Corporate Profits,129633,136919,149610,12032,AUD Million
+australia,Car Registrations,15166,17291,63768,9157,Units
+australia,Total Vehicle Sales,98328,99486,134171,35596,Units
+australia,Leading Economic Index,-0.1,0,0.69,-1.92,percent
+australia,Small Business Sentiment,-3,-7,19.77,-21.19,points
+australia,Building Capital Expenditure,-3.8,-0.9,53.2,-19.3,percent
+australia,Composite Leading Indicator,99.58,99.48,104,95.99,points
+australia,Industry Index,-23.5,-20.7,22.8,-43.6,points
+australia,Industry Index Business Services,-13.2,-18.1,26.1,-40.3,points
+australia,Industry Index Construction,-38.1,-23.2,23.9,-68.1,points
+australia,Industry Index Manufacturing,-30.8,-19.5,21.5,-34.1,points
+australia,Plant Machinery Capital Expenditure,-0.5,3.7,21.6,-10.2,percent
+australia,Business Inventories,0.1,1.5,3.2,-3.2,percent
+australia,Composite PMI,49.8,51.7,58.9,21.7,points
+australia,Mining Production,-0.8,0.5,25.3,-17,percent
+australia,Private Investment,-2.2,1.9,17.2,-8.2,percent
+australia,Consumer Confidence,84.6,85,124,64.6,points
+australia,Retail Sales MoM,0,0.5,16.1,-17.1,percent
+australia,Retail Sales YoY,2.3,2.9,24.8,-8.7,percent
+australia,Consumer Spending,304335,304859,304859,35754,AUD Million
+australia,Disposable Personal Income,395857,392152,395857,3107,AUD Million
+australia,Personal Savings,0.6,0.6,24.1,-2.4,percent
+australia,Consumer Credit,2289,2283,2289,89,AUD Billion
+australia,Private Sector Credit,0.5,0.6,2.9,-0.5,percent
+australia,Consumer Confidence MoM,-0.5,2.8,18,-17.7,percent
+australia,Housing Credit,0.5,0.4,3,-0.4,percent
+australia,Bank Lending Rate,10.79,10.79,21.05,6.51,percent
+australia,Gasoline Prices,1.24,1.28,1.67,0.46,USD/Liter
+australia,Households Debt to GDP,110,110,124,34.2,percent of GDP
+australia,Building Permits,14797,13398,23029,8684,
+australia,New Home Sales,3758,3808,16708,3004,Units
+australia,Apartment Permits,5234,3963,12789,1487,
+australia,Average House Prices,973,958,973,486,AUD Thousand
+australia,Building Permits MoM,10.4,-6.4,41,-29.8,percent
+australia,Building Permits YoY,14.3,-3.4,63.5,-43.1,percent
+australia,CoreLogic Dwelling Prices MoM,0.5,0.5,5.5,-2.9,percent
+australia,Houses Permits,9252,9199,14073,5865,
+australia,Investment Lending for Homes,11016,10728,11582,3881,AUD Million
+australia,Mortgage Rate,6.05,6.03,6.05,2.63,Percent
+australia,Private House Approvals,0.6,-0.5,21.8,-18.9,percent
+australia,Construction Output,0.1,-2,17.9,-18.9,percent
+australia,Home Loans,18876,18344,23318,5990,AUD Million
+australia,Home Ownership Rate,66,66.2,71.4,66,percent
+australia,Residential Property Prices,9.6,7.3,37.57,-7.42,Percent
+australia,Hospital Beds,3.84,3.82,9.65,3.74,per 1000 people
+australia,Hospitals,52.19,52.76,67.96,52.19,per one million people
+australia,Medical Doctors,4.22,4.1,4.22,2.62,per 1000 people
+australia,Nurses,14.07,13.43,14.07,11.84,per 1000 people
+canada,Currency,1.35,1.35,1.62,0.91,
+canada,Stock Market,23957,24034,24107,1332,points
+canada,GDP Growth Rate,0.5,0.4,9.1,-11,percent
+canada,GDP Annual Growth Rate,0.9,0.6,12.4,-12.2,percent
+canada,GDP Growth Annualized,2.1,1.8,36.3,-44,percent
+canada,Unemployment Rate,6.6,6.4,13.7,2.9,percent
+canada,Inflation Rate,2,2.5,21.6,-17.8,percent
+canada,Inflation Rate MoM,-0.2,0.4,2.6,-1.3,percent
+canada,Interest Rate,4.25,4.5,16,0.25,percent
+canada,Balance of Trade,684,-179,8554,-5755,CAD Million
+canada,Current Account,-8500,-5400,12492,-20035,CAD Million
+canada,Current Account to GDP,-0.6,-0.4,2.6,-4.2,percent of GDP
+canada,Government Debt to GDP,107,113,118,44.9,percent of GDP
+canada,Government Budget,-1.4,-1.3,5.1,-14.8,percent of GDP
+canada,Business Confidence,48.2,57.6,75,22.8,points
+canada,Manufacturing PMI,49.5,47.8,58.9,33,points
+canada,Consumer Confidence,50.1,47,57.05,35.6,points
+canada,Retail Sales MoM,0.9,-0.2,24,-23.6,percent
+canada,Building Permits,12389747,10146568,13197427,57056,CAD Thousand
+canada,Corporate Tax Rate,26.5,26.5,50.9,26.1,percent
+canada,Personal Income Tax Rate,33,33,33,29,percent
+canada,GDP Growth Rate,0.5,0.4,9.1,-11,percent
+canada,GDP Annual Growth Rate,0.9,0.6,12.4,-12.2,percent
+canada,GDP Growth Annualized,2.1,1.8,36.3,-44,percent
+canada,GDP,2140,2161,2161,40.46,USD Billion
+canada,GDP Constant Prices,2378917,2366367,2378917,363923,CAD Million
+canada,Gross National Product,2963896,2920040,2963896,39852,CAD Million
+canada,Gross Fixed Capital Formation,497535,493215,536777,65003,CAD Million
+canada,GDP per Capita,44388,45227,45227,26999,USD
+canada,GDP per Capita PPP,55818,56873,56873,38433,USD
+canada,Full Year GDP Growth,1.1,3.82,7.43,-5.04,percent
+canada,Monthly GDP MoM,0,0.2,5.8,-10.8,percent
+canada,GDP from Agriculture,42196,41928,44439,23820,CAD Million
+canada,GDP from Construction,160641,161346,170526,77365,CAD Million
+canada,GDP from Manufacturing,207648,207123,234844,153978,CAD Million
+canada,GDP from Mining,117303,117594,117594,70081,CAD Million
+canada,GDP from Public Administration,167875,167208,167875,93289,CAD Million
+canada,GDP from Services,1659757,1656683,1659757,815573,CAD Million
+canada,GDP from Transport,93085,93473,101925,55400,CAD Million
+canada,GDP from Utilities,46196,45621,47544,33129,CAD Million
+canada,Unemployment Rate,6.6,6.4,13.7,2.9,percent
+canada,Employed Persons,20536,20514,20536,9637,Thousand
+canada,Unemployed Persons,1459,1398,2691,692,Thousand
+canada,Full Time Employment,-43.6,61.6,569,-1474,Thousand
+canada,Part Time Employment,65.7,-64.4,466,-587,Thousand
+canada,Employment Change,22.1,-2.8,1036,-1991,Thousand
+canada,Labor Force Participation Rate,65.1,65,67.7,60.1,percent
+canada,Youth Unemployment Rate,14.5,14.2,30.3,9.3,percent
+canada,Labour Costs,134,133,134,42.34,points
+canada,Productivity,99.83,100,120,62.34,points
+canada,Wages,30.88,30.77,30.88,13.73,CAD/Hour
+canada,Minimum Wages,17.2,16.55,17.2,1,CAD/Hour
+canada,Wages in Manufacturing,30.74,30.66,31.49,14.96,CAD/Hour
+canada,Population,40.8,39.29,40.8,17.91,Million
+canada,Retirement Age Women,65,65,65,65,Years
+canada,Retirement Age Men,65,65,65,65,Years
+canada,Average Weekly Earnings,1253,1250,1253,542,CAD
+canada,Average Hourly Earnings,36.49,36.36,36.49,15.88,CAD
+canada,Employment Rate,60.8,60.9,63.6,51.9,percent
+canada,Job Vacancies,582600,641640,983620,364190,
+canada,Non Farm Payrolls,18155,18202,18202,10864,Thousand
+canada,Wage Growth,4.5,4.2,10.1,-0.4,percent
+canada,Inflation Rate,2,2.5,21.6,-17.8,percent
+canada,Inflation Rate MoM,-0.2,0.4,2.6,-1.3,percent
+canada,Consumer Price Index CPI,162,162,162,12.1,points
+canada,Core Consumer Prices,156,156,156,61.7,points
+canada,Core Inflation Rate,1.5,1.7,6.2,0,percent
+canada,GDP Deflator,126,125,126,11.1,points
+canada,Producer Prices,127,128,133,13.3,points
+canada,Producer Prices Change,0.2,2.8,21.5,-7.1,percent
+canada,Export Prices,137,136,151,58.6,points
+canada,Import Prices,134,133,134,66.9,points
+canada,Food Inflation,2.7,2.7,20.18,-7.14,percent
+canada,Commodity Prices YoY,-2.5,4.1,56.1,-34.8,percent
+canada,Core Inflation Rate MoM,-0.1,0.3,1,-0.6,percent
+canada,CPI Median,2.3,2.4,5,0.9,Percent
+canada,CPI Trimmed-Mean,2.4,2.7,5.6,0.8,Percent
+canada,Inflation Expectations,4.09,4.92,7.18,2.08,percent
+canada,Producer Price Inflation MoM,-0.8,-0.1,3.8,-2.9,percent
+canada,Rent Inflation,8.8,8.9,10.27,0,percent
+canada,Services Inflation,4.4,4.8,13.89,0.46,percent
+canada,CPI Housing Utilities,183,182,183,39.1,points
+canada,CPI Transportation,174,176,176,10.9,points
+canada,Wholesale Prices,139,144,167,38.5,points
+canada,Interest Rate,4.25,4.5,16,0.25,percent
+canada,Interbank Rate,4.97,4.97,8.95,0.43,percent
+canada,Money Supply M0,232852,250911,497458,2214,CAD Million
+canada,Money Supply M1,1553696,1544648,1625566,30706,CAD Million
+canada,Money Supply M2,2571135,2551791,2571135,25523,CAD Million
+canada,Money Supply M3,3703689,3667076,3703689,37982,CAD Million
+canada,Banks Balance Sheet,3412587,4095699,5049709,239092,CAD Million
+canada,Central Bank Balance Sheet,289480,289301,576479,2110,CAD Million
+canada,Foreign Exchange Reserves,125782,124205,125782,1678,USD Million
+canada,Loans to Private Sector,674820,659572,674820,10904,CAD Million
+canada,Deposit Interest Rate,4.91,4.91,22.06,-0.1,percent
+canada,Foreign Stock Investment,10979,5195,52614,-24986,CAD Million
+canada,Investment in Foreign Securities,4451,16352,35612,-42025,CAD Million
+canada,Private Debt to GDP,269,268,305,176,percent
+canada,Balance of Trade,684,-179,8554,-5755,CAD Million
+canada,Current Account,-8500,-5400,12492,-20035,CAD Million
+canada,Current Account to GDP,-0.6,-0.4,2.6,-4.2,percent of GDP
+canada,Exports,65660,65920,69017,1366,CAD Million
+canada,Imports,64970,66100,66100,1112,CAD Million
+canada,External Debt,4272791,4159276,4272791,354800,CAD Million
+canada,Terms of Trade,102,102,120,81.1,points
+canada,Capital Flows,-11344,-5080,12857,-20501,CAD Million
+canada,Foreign Direct Investment,38538,-13218,50326,-13218,CAD Million
+canada,Gold Reserves,0,0,46.2,0,Tonnes
+canada,Crude Oil Production,4474,4734,4990,955,BBL/D/1K
+canada,Oil Exports,12373,12029,13665,279,CAD Million
+canada,Terrorism Index,1.75,3.28,4.72,0.41,Points
+canada,Tourist Arrivals,4260020,3643749,7006165,67654,
+canada,Weapons Sales,285,175,544,37,SIPRI TIV Million
+canada,Government Debt to GDP,107,113,118,44.9,percent of GDP
+canada,Government Budget,-1.4,-1.3,5.1,-14.8,percent of GDP
+canada,Government Budget Value,-4400,940,9533,-44405,CAD Million
+canada,Government Spending,529257,521617,529257,98078,CAD Million
+canada,Government Revenues,40826,38482,46409,3384,CAD Million
+canada,Fiscal Expenditure,34643,31932,77508,5565,CAD Million
+canada,Asylum Applications,14825,14290,16440,661,Persons
+canada,Corruption Index,76,74,92,74,Points
+canada,Corruption Rank,12,14,14,5,
+canada,Credit Rating,100,,,,
+canada,Government Debt,1173,1140,1173,14.83,CAD Billion
+canada,Military Expenditure,27222,25568,27222,426,USD Million
+canada,Corporate Tax Rate,26.5,26.5,50.9,26.1,percent
+canada,Personal Income Tax Rate,33,33,33,29,percent
+canada,Sales Tax Rate,5,5,7,5,percent
+canada,Social Security Rate,14.38,14.09,14.95,7.9,percent
+canada,Social Security Rate For Companies,7.66,7.37,7.9,4.3,percent
+canada,Social Security Rate For Employees,6.72,6.72,7.05,3.6,percent
+canada,Withholding Tax Rate,25,25,25,25,percent
+canada,Business Confidence,48.2,57.6,75,22.8,points
+canada,Manufacturing PMI,49.5,47.8,58.9,33,points
+canada,Industrial Production,-0.3,0.1,20.9,-22.5,percent
+canada,Industrial Production Mom,-0.5,0.6,6.6,-15.8,percent
+canada,Manufacturing Production,-3.5,-2.5,32.4,-27.7,percent
+canada,Capacity Utilization,79.1,78.6,87.3,71.2,percent
+canada,New Orders,68813047,72218372,77434169,14816411,CAD Thousand
+canada,Changes in Inventories,25669,25393,72457,-29778,CAD Million
+canada,Bankruptcies,339,351,872,108,Companies
+canada,Corporate Profits,144391,141357,153763,-758,CAD Million
+canada,Car Registrations,168791,166120,220858,19807,Units
+canada,Composite Leading Indicator,99.69,99.54,104,94.46,points
+canada,Composite PMI,47.8,47,56.1,44.7,points
+canada,Electric Car Registrations,8832,5710,13807,1133,Units
+canada,Services PMI,47.8,47.3,56.1,44.5,points
+canada,Business Climate Indicator,-2.9,-2.39,5.63,-6.85,points
+canada,Manufacturing Sales,-1.5,1.4,21.6,-27.6,percent
+canada,Mining Production,6.1,7.4,27.3,-20.4,percent
+canada,Small Business Sentiment,55,56.9,74.07,30.84,points
+canada,Wholesale Sales,-1.1,0.4,41.4,-21.7,percent
+canada,Consumer Confidence,50.1,47,57.05,35.6,points
+canada,Retail Sales MoM,0.9,-0.2,24,-23.6,percent
+canada,Retail Sales Ex Autos,0.4,0.3,14.1,-18.8,percent
+canada,Retail Sales YoY,0.9,0.3,55.6,-30.2,percent
+canada,Consumer Spending,1349492,1347427,1349492,193805,CAD Million
+canada,Disposable Personal Income,1690208,1665436,1690208,24872,CAD Million
+canada,Personal Savings,7.2,6.7,26.5,-0.1,percent
+canada,Consumer Credit,769283,767186,769283,11066,CAD Million
+canada,Bank Lending Rate,6.7,6.7,22.75,2.25,percent
+canada,Gasoline Prices,1.17,1.22,1.59,0.41,USD/Liter
+canada,Households Debt to GDP,102,102,113,54.02,percent of GDP
+canada,Households Debt to Income,175,175,185,86.11,percent
+canada,Building Permits,12389747,10146568,13197427,57056,CAD Thousand
+canada,Housing Starts,217,280,321,90.7,Thousand units
+canada,Housing Index,125,125,126,37.7,points
+canada,Average House Prices,717400,717500,835000,239800,CAD
+canada,Building Permits MoM,22.1,-13,35.5,-28.5,percent
+canada,Home Sales,39073,38584,63689,16164,units
+canada,House Price Index MoM,0,0.2,3.1,-1.9,percent
+canada,House Price Index YoY,0,0.1,16.5,-9.7,percent
+canada,Home Ownership Rate,66.5,66.8,68.55,63.9,percent
+canada,Price to Rent Ratio,136,138,160,19.57,
+canada,Residential Property Prices,0.99,0.7,36.83,-14.72,Percent
+canada,Crude Oil Rigs,219,193,715,18,
+canada,Hospital Beds,2.58,2.55,6.92,2.52,per 1000 people
+canada,Hospitals,18.46,18.46,30.95,18.46,per one million people
+canada,Medical Doctors,2.8,2.81,2.81,1.14,per 1000 people
+canada,Nurses,11.17,10.99,11.17,6.33,per 1000 people
+switzerland,Currency,0.84,0.85,4.32,0.71,
+switzerland,Stock Market,12234,12210,12997,1288,points
+switzerland,GDP Growth Rate,0.7,0.5,6.9,-6.6,percent
+switzerland,GDP Annual Growth Rate,1.8,0.6,10.6,-7,percent
+switzerland,Unemployment Rate,2.4,2.3,5.7,1.5,percent
+switzerland,Inflation Rate,1.1,1.3,11.92,-1.4,percent
+switzerland,Inflation Rate MoM,0,-0.2,2.1,-1,percent
+switzerland,Interest Rate,1,1.25,3.5,-0.75,percent
+switzerland,Balance of Trade,3857,4106,5677,-1453,CHF Million
+switzerland,Current Account,19789,10280,26121,-18310,CHF Million
+switzerland,Current Account to GDP,7.6,9.9,14.8,-0.6,percent of GDP
+switzerland,Government Debt to GDP,38.3,37.7,57.8,25.1,percent of GDP
+switzerland,Government Budget,0.5,1.2,1.9,-3.1,percent of GDP
+switzerland,Business Confidence,102,101,128,41.8,points
+switzerland,Manufacturing PMI,49,43.5,70,33,points
+switzerland,Consumer Confidence,-34.6,-32.4,20,-52.5,points
+switzerland,Retail Sales MoM,1.4,-0.3,31.1,-12.8,percent
+switzerland,Corporate Tax Rate,14.6,14.6,25,14.6,percent
+switzerland,Personal Income Tax Rate,40,40,40.4,40,percent
+switzerland,GDP Growth Rate,0.7,0.5,6.9,-6.6,percent
+switzerland,GDP Annual Growth Rate,1.8,0.6,10.6,-7,percent
+switzerland,GDP,885,818,885,10.41,USD Billion
+switzerland,GDP Constant Prices,195543,194176,195543,90356,CHF Million
+switzerland,Gross Fixed Capital Formation,47443,47809,49229,19920,CHF Million
+switzerland,GDP per Capita,89943,90057,90057,39907,USD
+switzerland,GDP per Capita PPP,82914,83020,83020,61838,USD
+switzerland,Full Year GDP Growth,0.72,2.7,4.33,-2.38,percent
+switzerland,Unemployment Rate,2.4,2.3,5.7,1.5,percent
+switzerland,Employed Persons,5327,5301,5353,2951,Thousand
+switzerland,Unemployed Persons,111354,107716,206291,26,
+switzerland,Productivity,106,107,109,77.83,points
+switzerland,Job Vacancies,36246,34828,67870,6014,
+switzerland,Wages,6903,6788,6903,5542,CHF/Month
+switzerland,Wages in Manufacturing,111,111,114,100,points
+switzerland,Population,8.96,8.82,8.96,5.3,Million
+switzerland,Retirement Age Women,64,64,64,63,Years
+switzerland,Retirement Age Men,65,65,65,65,Years
+switzerland,Job Vacancy Rate,1.9,2,2.3,0.7,percent
+switzerland,Employment Change,0.2,0.3,1.2,-2.3,percent
+switzerland,Employment Rate,80.5,80.2,81,76.7,percent
+switzerland,Full Time Employment,2820,2808,2888,2629,Thousand
+switzerland,Job Offers,114303,110853,127557,29043,
+switzerland,Labor Force Participation Rate,83.9,83.8,84.9,80.5,percent
+switzerland,Long Term Unemployment Rate,1.4,1.3,2.1,1.2,percent
+switzerland,Non Farm Payrolls,5499,5481,5499,3841,Thousand
+switzerland,Part Time Employment,1851,1838,1851,1064,Thousand
+switzerland,Wage Growth,0.6,1.7,7.8,-0.8,percent
+switzerland,Youth Unemployment Rate,2.7,2.2,6.1,1.4,percent
+switzerland,Inflation Rate,1.1,1.3,11.92,-1.4,percent
+switzerland,Inflation Rate MoM,0,-0.2,2.1,-1,percent
+switzerland,Consumer Price Index CPI,108,108,108,20.99,points
+switzerland,Core Consumer Prices,105,105,105,94.22,points
+switzerland,Core Inflation Rate,1.1,1.1,2.4,-1.2,percent
+switzerland,GDP Deflator,106,106,106,55.6,points
+switzerland,Producer Prices,107,107,119,59.32,points
+switzerland,Producer Prices Change,-1.2,-1.7,18.66,-6.8,percent
+switzerland,Export Prices,101,99.9,116,99.4,points
+switzerland,Import Prices,108,109,140,76.02,points
+switzerland,Food Inflation,-0.1,0.1,6.8,-4.6,percent
+switzerland,Harmonised Inflation Rate MoM,0,0.4,1.1,-1,percent
+switzerland,Harmonised Inflation Rate YoY,1,1.2,3.3,-1.5,percent
+switzerland,Producer Price Inflation MoM,0.2,0,4.6,-2.1,percent
+switzerland,CPI Housing Utilities,114,113,114,48.27,points
+switzerland,CPI Transportation,112,114,118,65.81,points
+switzerland,Harmonised Consumer Prices,108,108,108,96.5,points
+switzerland,Inflation Expectations,1.35,1.65,3.61,-1.33,percent
+switzerland,Interest Rate,1,1.25,3.5,-0.75,percent
+switzerland,Money Supply M0,522313,518258,757190,5475,CHF Million
+switzerland,Money Supply M1,596526,602836,780952,89321,CHF Million
+switzerland,Money Supply M2,921587,921782,1097277,198227,CHF Million
+switzerland,Money Supply M3,1139714,1135837,1171437,252820,CHF Million
+switzerland,Banks Balance Sheet,2303629,2291352,2374045,595832,CHF Million
+switzerland,Foreign Exchange Reserves,693827,703660,946749,42138,CHF Million
+switzerland,Loans to Private Sector,1750619,1750680,1750680,348012,CHF Million
+switzerland,Deposit Interest Rate,0.76,0.85,9.75,-0.47,percent
+switzerland,Central Bank Balance Sheet,812357,822528,1069287,68322,CHF Million
+switzerland,Private Debt to GDP,270,276,282,177,percent
+switzerland,Balance of Trade,3857,4106,5677,-1453,CHF Million
+switzerland,Current Account,19789,10280,26121,-18310,CHF Million
+switzerland,Current Account to GDP,7.6,9.9,14.8,-0.6,percent of GDP
+switzerland,Exports,22125,22400,24053,246,CHF million
+switzerland,Imports,18268,18294,20387,273,CHF million
+switzerland,External Debt,1982906,2019021,2242418,762503,CHF Million
+switzerland,Terms of Trade,93.84,92.05,103,83.76,points
+switzerland,Capital Flows,30948,13230,61980,-67463,CHF Million
+switzerland,Foreign Direct Investment,1055435,1120443,1347820,20959,CHF Million
+switzerland,Tourist Arrivals,2405,2158,2405,53.92,Thousand
+switzerland,Gold Reserves,1040,1040,2590,1040,Tonnes
+switzerland,Terrorism Index,0.63,2.21,2.72,0.13,Points
+switzerland,Tourism Revenues,4555,4329,5568,999,CHF Million
+switzerland,Weapons Sales,93,185,554,18,SIPRI TIV Million
+switzerland,Government Debt to GDP,38.3,37.7,57.8,25.1,percent of GDP
+switzerland,Government Budget,0.5,1.2,1.9,-3.1,percent of GDP
+switzerland,Government Budget Value,4375,6795,11819,-18981,CHF Million
+switzerland,Government Spending,21610,21564,21610,9438,CHF Million
+switzerland,Government Spending to GDP,32,31.9,37,27.6,percent of GDP
+switzerland,Government Revenues,252844,251803,252844,46464,CHF Million
+switzerland,Government Debt,208646,204863,229685,76818,CHF Million
+switzerland,Fiscal Expenditure,248469,245008,252039,47240,CHF Million
+switzerland,Asylum Applications,1955,1960,5555,280,persons
+switzerland,Corruption Index,82,82,91,82,Points
+switzerland,Corruption Rank,6,7,12,3,
+switzerland,Credit Rating,100,,,,
+switzerland,Military Expenditure,6293,5652,6293,200,USD Million
+switzerland,Corporate Tax Rate,14.6,14.6,25,14.6,percent
+switzerland,Personal Income Tax Rate,40,40,40.4,40,percent
+switzerland,Sales Tax Rate,8.1,7.7,8.1,7.6,percent
+switzerland,Social Security Rate,12.8,12.8,18.1,12,percent
+switzerland,Social Security Rate For Companies,6.4,6.4,11.55,6,percent
+switzerland,Social Security Rate For Employees,6.4,6.4,6.55,6,percent
+switzerland,Withholding Tax Rate,35,35,35,35,percent
+switzerland,Business Confidence,102,101,128,41.8,points
+switzerland,Manufacturing PMI,49,43.5,70,33,points
+switzerland,Industrial Production,7.3,-2,15.7,-10.5,percent
+switzerland,Manufacturing Production,6.84,-3.2,16.88,-11.55,percent
+switzerland,Capacity Utilization,79,79.49,90,75.04,percent
+switzerland,Changes in Inventories,924,6887,7971,-5369,CHF Million
+switzerland,Bankruptcies,15447,15009,15447,3040,Companies and Individuals
+switzerland,Car Registrations,15927,18430,46778,1411,Units
+switzerland,Electric Car Registrations,3421,3434,7240,2016,Units
+switzerland,Industrial Production Mom,3.9,0.2,6,-7.9,percent
+switzerland,Mining Production,1.2,-1,18.5,-19.9,percent
+switzerland,Services PMI,52.9,44.7,74.55,21.92,points
+switzerland,ZEW Economic Sentiment Index,-8.8,-3.4,72.2,-91.1,points
+switzerland,Consumer Confidence,-34.6,-32.4,20,-52.5,points
+switzerland,Retail Sales MoM,1.4,-0.3,31.1,-12.8,percent
+switzerland,Retail Sales YoY,2.7,-2.6,38.1,-18.3,percent
+switzerland,Consumer Spending,97918,97641,97918,50175,CHF Million
+switzerland,Personal Savings,14.9,15.5,18.7,6.5,percent
+switzerland,Gasoline Prices,2.15,2.15,2.41,0.78,USD/Liter
+switzerland,Households Debt to GDP,128,128,136,99.4,percent of GDP
+switzerland,Housing Index,194,193,194,35.65,points
+switzerland,Construction Output,0.8,-2.9,10.3,-7.8,percent
+switzerland,Home Ownership Rate,42.6,42.3,44.5,41.3,percent
+switzerland,Price to Rent Ratio,125,126,143,74.04,
+switzerland,Residential Property Prices,1.37,1.47,25.54,-6.58,Percent
+switzerland,Hospital Beds,4.43,4.48,6.63,4.43,per 1000 people
+switzerland,Hospitals,31.71,31.95,70.48,31.71,per one million people
+switzerland,Medical Doctors,4.51,4.46,4.51,1.38,per 1000 people
+switzerland,ICU Beds,3.51,3.53,5.64,3.51,per 1000 people

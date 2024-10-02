@@ -1,0 +1,17 @@
+Date,Asset Class,Ticker/Pair,Direction (Long/Short),Position Size,Entry Price,Exit Price,P&L ($),P&L (%)
+YYYY-MM-DD,Currency,Stock,Commodity,Example: EUR/USD,Gold,XOM,Long/Short,Lot Size or Shares,$1.0850,$1.0950,$500,3%
+
+Entry Date,Exit Date,Timeframe (Day/Week/Month),Trade Duration (Days),Initial Stop-Loss,Take-Profit,Final Outcome (Win/Loss)
+YYYY-MM-DD,YYYY-MM-DD,Example: Day,10 days,$1.0750,$1.0950,Win
+
+Country/Event,Impact,Fundamental Reason for Trade,Central Bank Decisions,News/Event,Commodity Prices
+Example: U.S. Interest Rate Hike,USD Bullish,Fed raised rates by 0.25%,Hawkish,NFP Data,Rising Oil
+
+Indicator,Signal/Trend,RSI Value,MACD Crossover,Moving Averages,Fibonacci Level,Support/Resistance,Other
+Example: 50-day MA,Bullish above 50-day,60 (Bullish),Bullish Crossover,50-day > 200-day,61.8%,Support at 1.0750,Trendline
+
+Risk Per Trade (%),Reward-to-Risk Ratio,Position Size (Lot/Shares),Stop-Loss,Trailing Stop,Adjustments During Trade
+2%,1:3,0.5 Lot,$1.0750,Yes,Raised stop-loss to breakeven
+
+Pre-Trade Emotions,During Trade Emotions,Post-Trade Emotions,Lessons Learned,Improvements for Future Trades
+Excited,Confident,Anxious during drawdown,Satisfied,Tighten stop-loss,Avoid trading during news events
